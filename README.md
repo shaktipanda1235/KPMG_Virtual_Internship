@@ -14,8 +14,11 @@ mitigate such disperancy.
 engineered column was segregating **Australian Capital Territory** from 'New South Wales.
 
 # Insights on current customers
+* **Pareto Principle** was checked for current customers and it failed.
+ ![image](https://user-images.githubusercontent.com/102746816/161388931-efd5c2ca-8dd0-4ab1-894e-c812261dde4b.png)
+
 * A RFM analysis was carried out on all the customers and following conclusions were derived:
-  ** The company was loosing 39 important customers.
+  **The company was loosing 39 important customers**
  ![image](https://user-images.githubusercontent.com/102746816/161388081-3f3f0d76-9c15-4c24-8811-a6846c47a7a6.png)
  
  ## Data Preparation before modelling
@@ -29,7 +32,7 @@ engineered column was segregating **Australian Capital Territory** from 'New Sou
  * A model was created using full datasets as previously train-test split was compromising patterns present in train dataset. 
  # Prediction
  * The new customer dataset was converted to similar structure to that of train dataset and prediction was carried out.
- * Deciding factor job_industry_category was plotted for better understanding of important customers from different job category.
+ * Deciding factor job_industry_category of 'Manufacturing' has an important potential to tap on.
    ![image](https://user-images.githubusercontent.com/102746816/161388710-15465da4-1279-445d-989d-1ceb6b7d0514.png)
    
  # Visualisation
