@@ -30,7 +30,7 @@ engineered column was segregating **Australian Capital Territory** from 'New Sou
  # Prediction
  * The new customer dataset was converted to similar structure to that of train dataset and prediction was carried out.
  * Deciding factor job_industry_category was plotted for better understanding of important customers from different job category.
-   ![image](https://user-images.githubusercontent.com/102746816/161388710-15465da4-1279-445d-989d-1ceb6b7d0514.png
+   ![image](https://user-images.githubusercontent.com/102746816/161388710-15465da4-1279-445d-989d-1ceb6b7d0514.png)
    
  # Visualisation
  * A dashboard was created to make client understand about what was happening and what is going to happen among their current customers and new customers.
