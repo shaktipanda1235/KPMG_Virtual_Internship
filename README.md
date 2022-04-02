@@ -1,3 +1,4 @@
+
 # Inspiration
 After working with more than 70 toy datasets, this internship provided a platform to get a detailed overview of how industry works. As most of dataset I worked on used 
 to be cleaned ones, this internship helped in getting data in it's raw form. Starting from basic collected data to model building and collecting insigths from it was a 
