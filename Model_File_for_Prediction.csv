@@ -1,0 +1,1001 @@
+gender,job_title,job_industry_category,wealth_segment,owns_car,property_valuation,State,Age,past_3_years_purchase,Tenure,Important_Customer
+Male,General Manager,Manufacturing,Mass Customer,Yes,6,QLD,Senior_Citizen,8,2,1
+Male,Structural Engineer,Property,Mass Customer,No,11,NSW,Middle_Aged,6,3,0
+Female,Senior Cost Accountant,Financial Services,Affluent Customer,No,5,VIC,Middle_Aged,1,2,0
+Female,Account Representative III,Manufacturing,Affluent Customer,Yes,1,QLD,Middle_Aged,6,1,0
+Female,Financial Analyst,Financial Services,Affluent Customer,No,9,NSW,Middle_Aged,3,3,0
+Female,Assistant Media Planner,Entertainment,High Net Worth,Yes,7,QLD,Senior_Citizen,3,3,1
+Male,Compensation Analyst,Financial Services,Mass Customer,No,7,NSW,Middle_Aged,2,1,0
+Female,Human Resources Assistant II,Retail,Mass Customer,Yes,5,QLD,Middle_Aged,7,2,1
+Male,Speech Pathologist,Manufacturing,Mass Customer,Yes,10,NSW,Middle_Aged,5,1,1
+Male,Accounting Assistant IV,IT,Mass Customer,Yes,5,QLD,Middle_Aged,7,3,1
+Male,Programmer Analyst I,Retail,High Net Worth,No,6,QLD,Young,9,0,0
+Male,Environmental Specialist,Manufacturing,Mass Customer,No,8,VIC,Young,4,2,0
+Male,Human Resources Manager,Telecommunications,Mass Customer,No,11,NSW,Young,6,1,1
+Female,VP Marketing,Health,Mass Customer,No,10,NSW,Middle_Aged,3,0,1
+Female,Clinical Specialist,Health,Mass Customer,No,8,QLD,Middle_Aged,3,2,0
+Male,,Manufacturing,Affluent Customer,Yes,8,NSW,Senior_Citizen,8,1,1
+Female,Associate Professor,Manufacturing,Mass Customer,Yes,6,QLD,Young,6,0,1
+Female,Actuary,Financial Services,Mass Customer,No,10,VIC,Middle_Aged,8,2,1
+Female,General Manager,Manufacturing,Affluent Customer,Yes,11,NSW,Senior_Citizen,6,2,1
+Female,Internal Auditor,Manufacturing,High Net Worth,No,10,NSW,Senior_Citizen,0,2,0
+Male,Programmer I,Manufacturing,Mass Customer,Yes,9,NSW,Middle_Aged,1,2,1
+Male,Financial Analyst,Financial Services,Mass Customer,Yes,7,NSW,Young,4,1,1
+Male,Quality Engineer,,Mass Customer,No,4,QLD,Young,2,0,1
+Female,Quality Control Specialist,,Affluent Customer,Yes,8,NSW,Middle_Aged,0,2,1
+Female,Account Executive,Manufacturing,Mass Customer,No,5,QLD,Middle_Aged,7,0,0
+Male,,Property,Mass Customer,No,4,QLD,Senior_Citizen,1,3,0
+Female,Engineer II,Retail,Mass Customer,Yes,2,NSW,Senior_Citizen,1,1,0
+Female,Nurse,Property,High Net Worth,Yes,11,QLD,Middle_Aged,7,1,1
+Female,Librarian,Entertainment,High Net Worth,No,7,QLD,Senior_Citizen,8,2,0
+Female,,Health,High Net Worth,No,10,VIC,Senior_Citizen,4,1,0
+Female,,Financial Services,High Net Worth,Yes,8,NSW,Middle_Aged,6,3,0
+Male,Clinical Specialist,Health,Mass Customer,Yes,2,NSW,Senior_Citizen,7,2,0
+Female,Paralegal,Financial Services,Mass Customer,Yes,7,NSW,Middle_Aged,8,1,1
+Male,Nurse,,Mass Customer,No,9,QLD,Middle_Aged,7,1,1
+Female,Assistant Manager,Financial Services,Affluent Customer,No,9,VIC,Middle_Aged,2,3,1
+Female,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,1,QLD,Middle_Aged,4,2,0
+Male,Recruiting Manager,,High Net Worth,No,10,NSW,Middle_Aged,7,2,1
+Male,,Manufacturing,Mass Customer,No,8,VIC,Middle_Aged,5,3,1
+Male,,Property,Mass Customer,Yes,2,VIC,Senior_Citizen,4,2,1
+Male,,Manufacturing,Affluent Customer,Yes,9,NSW,Young,6,1,1
+Female,,Health,High Net Worth,No,8,NSW,Senior_Citizen,7,2,1
+Female,Design Engineer,Financial Services,Mass Customer,No,10,VIC,Middle_Aged,2,0,1
+Female,,Retail,Mass Customer,No,10,NSW,Senior_Citizen,7,1,0
+Female,Design Engineer,,Affluent Customer,No,8,NSW,Middle_Aged,5,1,1
+Male,,,High Net Worth,No,5,VIC,Senior_Citizen,7,1,0
+Female,Business Systems Development Analyst,Retail,High Net Worth,Yes,12,NSW,Senior_Citizen,2,1,0
+Female,Paralegal,Financial Services,Affluent Customer,Yes,1,QLD,Senior_Citizen,1,3,0
+Female,VP Quality Control,,High Net Worth,Yes,4,QLD,Young,8,2,0
+Female,Cost Accountant,Financial Services,Mass Customer,Yes,7,VIC,Middle_Aged,5,3,0
+Male,Product Engineer,Argiculture,Mass Customer,No,12,NSW,Senior_Citizen,1,3,0
+Male,,Manufacturing,Affluent Customer,No,8,VIC,Middle_Aged,6,2,1
+Male,Paralegal,Financial Services,Affluent Customer,Yes,8,QLD,Young,6,1,0
+Male,Social Worker,Health,High Net Worth,Yes,7,VIC,Young,5,2,0
+Female,,Property,Mass Customer,No,10,NSW,Middle_Aged,9,1,0
+Female,Payment Adjustment Coordinator,Retail,Mass Customer,No,10,VIC,Young,8,3,1
+Female,Marketing Assistant,Manufacturing,Mass Customer,No,10,NSW,Middle_Aged,5,1,0
+Male,Recruiter,Argiculture,Mass Customer,No,8,NSW,Middle_Aged,7,2,0
+Female,VP Product Management,,Mass Customer,No,9,VIC,Middle_Aged,5,2,0
+Male,Media Manager III,,Mass Customer,Yes,5,VIC,Middle_Aged,6,1,1
+,Associate Professor,IT,Mass Customer,No,5,VIC,Senior_Citizen,0,0,1
+Male,Cost Accountant,Financial Services,High Net Worth,Yes,7,NSW,Middle_Aged,4,3,0
+Male,Developer I,Argiculture,Mass Customer,Yes,9,NSW,Middle_Aged,3,1,0
+Male,Senior Financial Analyst,Financial Services,High Net Worth,No,10,NSW,Senior_Citizen,5,2,1
+Female,Electrical Engineer,Manufacturing,High Net Worth,Yes,6,QLD,Middle_Aged,7,3,0
+Female,Accountant IV,IT,High Net Worth,Yes,7,QLD,Young,2,1,1
+Female,Human Resources Manager,Retail,High Net Worth,No,8,NSW,Middle_Aged,5,2,1
+Female,Executive Secretary,Property,Affluent Customer,Yes,11,QLD,Young,6,1,0
+Female,Account Representative I,Manufacturing,Affluent Customer,Yes,7,QLD,Middle_Aged,5,3,0
+Male,Executive Secretary,Financial Services,High Net Worth,Yes,5,QLD,Young,6,0,1
+Female,Associate Professor,,High Net Worth,Yes,7,QLD,Young,8,1,1
+Female,Dental Hygienist,Health,High Net Worth,Yes,7,NSW,Young,1,2,1
+Female,GIS Technical Architect,Financial Services,Mass Customer,No,10,NSW,Young,7,1,1
+Female,Assistant Professor,Financial Services,High Net Worth,No,9,QLD,Young,7,3,0
+Male,Mechanical Systems Engineer,,High Net Worth,No,9,NSW,Middle_Aged,0,3,1
+Female,,Financial Services,Affluent Customer,Yes,9,NSW,Senior_Citizen,7,3,0
+Male,Budget/Accounting Analyst IV,Manufacturing,High Net Worth,Yes,12,NSW,Middle_Aged,9,2,1
+Male,Research Nurse,Health,Mass Customer,No,9,NSW,Senior_Citizen,0,3,1
+Female,Speech Pathologist,Health,Affluent Customer,Yes,7,VIC,Senior_Citizen,3,2,1
+Female,Computer Systems Analyst IV,Manufacturing,Mass Customer,Yes,10,NSW,Middle_Aged,1,2,1
+Female,Analyst Programmer,Entertainment,High Net Worth,No,6,NSW,Middle_Aged,1,1,0
+Male,Desktop Support Technician,Manufacturing,Mass Customer,No,12,NSW,Young,5,3,0
+Female,Editor,Financial Services,Mass Customer,No,8,NSW,Middle_Aged,3,1,1
+Female,,Financial Services,Mass Customer,No,9,NSW,Middle_Aged,1,1,0
+Male,Biostatistician IV,Manufacturing,High Net Worth,No,12,VIC,Middle_Aged,5,1,1
+Male,Database Administrator III,Manufacturing,High Net Worth,Yes,10,NSW,Senior_Citizen,4,3,0
+Female,Engineer III,,High Net Worth,No,10,NSW,Senior_Citizen,0,2,0
+Female,Assistant Media Planner,Entertainment,Affluent Customer,No,9,NSW,Young,0,1,0
+Male,GIS Technical Architect,,High Net Worth,No,12,NSW,Senior_Citizen,0,2,0
+Male,Physical Therapy Assistant,Manufacturing,Mass Customer,Yes,9,NSW,Senior_Citizen,4,2,0
+Male,Structural Engineer,Health,Affluent Customer,No,2,QLD,Middle_Aged,2,3,0
+Male,Environmental Specialist,,Affluent Customer,No,10,NSW,Young,9,3,0
+Female,Director of Sales,Health,Mass Customer,No,7,NSW,Middle_Aged,3,3,0
+Female,,Retail,Mass Customer,No,9,NSW,Middle_Aged,8,2,0
+Male,Teacher,,Affluent Customer,Yes,8,QLD,Senior_Citizen,9,2,1
+Male,,,Mass Customer,No,5,QLD,Middle_Aged,2,2,0
+Male,,Manufacturing,High Net Worth,Yes,12,NSW,Young,9,1,1
+Male,Human Resources Assistant IV,Property,Mass Customer,Yes,4,VIC,Senior_Citizen,1,3,0
+Male,Nurse Practicioner,Retail,Mass Customer,No,6,QLD,Young,6,2,1
+Male,Structural Engineer,Manufacturing,High Net Worth,No,10,NSW,Middle_Aged,2,2,1
+Female,Structural Analysis Engineer,Manufacturing,High Net Worth,Yes,8,VIC,Young,3,2,0
+Female,Associate Professor,Retail,Mass Customer,No,4,QLD,Young,8,0,1
+Female,Dental Hygienist,Health,Mass Customer,No,2,QLD,Young,5,2,0
+Male,Marketing Manager,Manufacturing,Mass Customer,No,2,NSW,Senior_Citizen,1,1,1
+Female,Staff Accountant IV,Financial Services,Affluent Customer,No,2,VIC,Middle_Aged,6,1,0
+Female,VP Sales,Financial Services,High Net Worth,Yes,6,VIC,Senior_Citizen,5,3,0
+Male,Accountant III,IT,Mass Customer,Yes,3,QLD,Senior_Citizen,5,3,0
+Female,Recruiting Manager,Argiculture,Mass Customer,No,9,NSW,Middle_Aged,2,3,1
+Male,Sales Representative,Retail,High Net Worth,No,8,VIC,Middle_Aged,1,3,0
+Female,Human Resources Assistant II,,Mass Customer,No,1,NSW,Senior_Citizen,9,1,1
+Female,,Manufacturing,Mass Customer,Yes,8,QLD,Middle_Aged,0,3,0
+Female,Food Chemist,Health,Mass Customer,Yes,7,VIC,Middle_Aged,9,1,1
+Male,Staff Scientist,Financial Services,Mass Customer,Yes,5,QLD,Senior_Citizen,3,2,1
+Male,Structural Engineer,,High Net Worth,No,11,NSW,Senior_Citizen,7,2,1
+Female,VP Sales,IT,Mass Customer,No,2,VIC,Young,0,1,0
+Female,Geologist IV,Manufacturing,Affluent Customer,No,6,QLD,Middle_Aged,5,3,0
+Male,,Health,Mass Customer,No,5,NSW,Young,4,1,0
+Male,Information Systems Manager,Telecommunications,Affluent Customer,Yes,9,NSW,Senior_Citizen,6,3,1
+Female,Junior Executive,Financial Services,High Net Worth,Yes,9,VIC,Middle_Aged,2,1,1
+Male,Nurse Practicioner,Retail,Mass Customer,Yes,7,QLD,Middle_Aged,3,0,0
+Female,Automation Specialist II,Property,Mass Customer,Yes,4,NSW,Senior_Citizen,0,1,1
+Male,Software Consultant,Retail,Affluent Customer,No,8,NSW,Middle_Aged,7,0,1
+Male,Desktop Support Technician,,Mass Customer,No,10,NSW,Young,5,1,0
+Female,Design Engineer,,High Net Worth,No,8,NSW,Middle_Aged,8,1,1
+Female,Financial Analyst,Financial Services,Mass Customer,No,4,QLD,Middle_Aged,0,0,0
+Male,Media Manager III,,High Net Worth,Yes,5,QLD,Senior_Citizen,4,3,1
+Male,,Health,Mass Customer,Yes,3,VIC,Senior_Citizen,7,1,1
+Female,Social Worker,Health,Affluent Customer,No,1,VIC,Senior_Citizen,6,3,0
+Male,Civil Engineer,Manufacturing,Mass Customer,Yes,1,NSW,Middle_Aged,1,1,1
+Female,Editor,Retail,Mass Customer,No,1,QLD,Senior_Citizen,4,2,1
+Female,Design Engineer,Retail,Affluent Customer,Yes,7,NSW,Young,5,1,1
+Female,Geological Engineer,Manufacturing,Affluent Customer,Yes,2,NSW,Senior_Citizen,7,1,0
+Male,Payment Adjustment Coordinator,,Mass Customer,Yes,7,VIC,Middle_Aged,3,2,0
+Female,,,Mass Customer,Yes,4,QLD,Senior_Citizen,1,3,0
+Male,,Manufacturing,Mass Customer,No,9,NSW,Middle_Aged,2,1,1
+Female,Graphic Designer,Manufacturing,Affluent Customer,Yes,8,NSW,Middle_Aged,2,2,1
+Male,Staff Accountant II,,Mass Customer,No,7,NSW,Middle_Aged,8,3,1
+Female,Graphic Designer,Manufacturing,Affluent Customer,No,5,QLD,Young,9,0,1
+Male,Social Worker,Health,Mass Customer,Yes,4,NSW,Middle_Aged,2,3,1
+Female,Community Outreach Specialist,Financial Services,Mass Customer,Yes,3,NSW,Middle_Aged,1,2,0
+Female,Programmer Analyst II,Property,Mass Customer,Yes,8,VIC,Middle_Aged,6,0,0
+Male,Desktop Support Technician,Manufacturing,Affluent Customer,Yes,9,VIC,Middle_Aged,9,3,0
+Male,Pharmacist,Health,Affluent Customer,Yes,9,NSW,Young,1,3,1
+Male,VP Marketing,Retail,Mass Customer,Yes,8,QLD,Senior_Citizen,2,3,1
+Male,Senior Cost Accountant,Financial Services,High Net Worth,Yes,9,NSW,Middle_Aged,0,3,0
+Female,Senior Editor,Manufacturing,Mass Customer,No,1,QLD,Middle_Aged,0,1,0
+Female,Sales Associate,Financial Services,Mass Customer,No,9,NSW,Senior_Citizen,4,3,0
+Female,Developer II,Manufacturing,Mass Customer,No,8,NSW,Middle_Aged,8,3,1
+Male,VP Marketing,Retail,Mass Customer,No,10,NSW,Middle_Aged,3,3,1
+Female,Teacher,Health,High Net Worth,No,6,VIC,Middle_Aged,5,3,1
+Female,,Property,Mass Customer,No,8,NSW,Middle_Aged,3,3,0
+Female,Staff Accountant I,Health,Affluent Customer,Yes,3,QLD,Middle_Aged,6,0,0
+Female,Environmental Tech,Manufacturing,Affluent Customer,Yes,8,NSW,Senior_Citizen,3,2,0
+Male,VP Sales,Financial Services,Mass Customer,Yes,11,NSW,Middle_Aged,6,3,0
+Male,Account Coordinator,Health,Mass Customer,No,5,VIC,Senior_Citizen,5,2,0
+Male,Compensation Analyst,Financial Services,Mass Customer,No,5,QLD,Senior_Citizen,0,1,1
+Female,Human Resources Assistant II,Property,Mass Customer,Yes,9,NSW,Middle_Aged,7,3,1
+Female,Health Coach II,Financial Services,Mass Customer,No,9,QLD,Middle_Aged,8,3,0
+Female,Programmer Analyst III,Health,Mass Customer,No,9,NSW,Senior_Citizen,1,1,0
+Female,Senior Quality Engineer,,Mass Customer,Yes,9,VIC,Middle_Aged,0,1,1
+Male,Environmental Tech,,High Net Worth,No,9,NSW,Senior_Citizen,2,2,1
+Male,Geologist III,Property,Affluent Customer,No,12,NSW,Middle_Aged,3,0,0
+Female,Health Coach II,Health,Mass Customer,Yes,11,VIC,Young,2,2,1
+Female,Assistant Professor,Manufacturing,Affluent Customer,Yes,2,NSW,Middle_Aged,6,1,1
+Male,Account Representative III,,High Net Worth,Yes,3,QLD,Senior_Citizen,9,3,1
+Female,Director of Sales,,Mass Customer,Yes,11,NSW,Middle_Aged,0,0,0
+Male,Clinical Specialist,Health,Mass Customer,No,10,NSW,Middle_Aged,5,0,1
+Female,Assistant Professor,Financial Services,High Net Worth,No,3,NSW,Middle_Aged,6,2,0
+Female,Environmental Tech,Manufacturing,Mass Customer,Yes,4,QLD,Young,5,1,1
+Female,Senior Developer,Retail,Affluent Customer,No,9,VIC,Senior_Citizen,9,3,0
+Male,Staff Scientist,Argiculture,Affluent Customer,No,7,VIC,Middle_Aged,3,2,0
+Female,Account Representative II,,Affluent Customer,No,9,NSW,Senior_Citizen,4,2,0
+Male,Help Desk Technician,Property,Mass Customer,Yes,11,NSW,Senior_Citizen,3,2,0
+Male,VP Quality Control,Financial Services,Mass Customer,Yes,6,NSW,Young,6,0,1
+Male,Assistant Manager,Manufacturing,Affluent Customer,Yes,1,VIC,Young,5,3,1
+Female,Research Assistant IV,Property,Mass Customer,No,8,VIC,Senior_Citizen,7,1,1
+Female,Speech Pathologist,Telecommunications,High Net Worth,No,9,NSW,Young,5,1,1
+Female,Research Associate,,High Net Worth,Yes,7,VIC,Senior_Citizen,7,1,1
+Male,Software Consultant,Manufacturing,Mass Customer,No,9,NSW,Senior_Citizen,5,3,0
+Male,Sales Representative,Retail,Mass Customer,Yes,10,NSW,Senior_Citizen,9,2,0
+Female,Assistant Manager,Financial Services,Mass Customer,No,9,QLD,Middle_Aged,7,1,1
+Male,Assistant Manager,Health,High Net Worth,No,9,NSW,Middle_Aged,3,1,1
+Male,Junior Executive,Manufacturing,Mass Customer,No,7,QLD,Middle_Aged,7,3,0
+Male,Community Outreach Specialist,,High Net Worth,Yes,8,NSW,Senior_Citizen,3,3,0
+Male,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,7,NSW,Middle_Aged,3,2,1
+Female,Account Representative IV,Property,Mass Customer,No,9,VIC,Middle_Aged,6,1,0
+Male,Social Worker,Health,High Net Worth,Yes,10,VIC,Young,6,0,0
+Female,Senior Editor,Financial Services,High Net Worth,No,10,NSW,Middle_Aged,2,3,0
+Female,Payment Adjustment Coordinator,,Mass Customer,Yes,8,NSW,Middle_Aged,6,3,0
+Female,Safety Technician I,Property,High Net Worth,No,10,QLD,Middle_Aged,0,1,0
+Male,VP Product Management,IT,Affluent Customer,No,9,NSW,Young,7,2,1
+Female,Physical Therapy Assistant,Property,Affluent Customer,No,11,NSW,Young,3,1,1
+Male,Clinical Specialist,Health,Mass Customer,Yes,8,NSW,Senior_Citizen,5,1,0
+Female,Human Resources Manager,Telecommunications,High Net Worth,No,8,NSW,Middle_Aged,1,2,1
+Female,GIS Technical Architect,Argiculture,Mass Customer,No,10,NSW,Middle_Aged,4,1,1
+Female,Dental Hygienist,Health,Mass Customer,Yes,12,VIC,Senior_Citizen,2,2,1
+Male,Analog Circuit Design manager,Property,Affluent Customer,No,3,VIC,Middle_Aged,0,3,0
+Female,Business Systems Development Analyst,,High Net Worth,No,9,QLD,Middle_Aged,6,1,0
+Female,Information Systems Manager,,High Net Worth,No,9,NSW,Young,6,0,1
+Male,Environmental Tech,,Affluent Customer,No,3,NSW,Young,4,0,0
+Female,Geological Engineer,Manufacturing,High Net Worth,Yes,4,QLD,Middle_Aged,5,2,0
+Male,,,Mass Customer,Yes,7,VIC,Senior_Citizen,7,2,0
+Female,,Health,Mass Customer,No,8,NSW,Senior_Citizen,8,3,1
+Male,General Manager,Manufacturing,Affluent Customer,Yes,9,NSW,Senior_Citizen,4,3,0
+Female,Analyst Programmer,Retail,Mass Customer,Yes,1,QLD,Senior_Citizen,4,1,1
+Male,Recruiting Manager,,Mass Customer,No,7,NSW,Young,0,0,1
+Female,Senior Sales Associate,,Affluent Customer,Yes,8,NSW,Senior_Citizen,1,2,1
+Male,Research Assistant II,Telecommunications,Affluent Customer,No,7,QLD,Middle_Aged,3,1,0
+Female,,,Mass Customer,Yes,7,NSW,Senior_Citizen,7,2,0
+Female,Social Worker,Health,High Net Worth,No,9,NSW,Senior_Citizen,1,3,0
+Male,Financial Analyst,Financial Services,Affluent Customer,No,4,QLD,Middle_Aged,9,0,0
+Male,Senior Cost Accountant,Financial Services,Mass Customer,No,10,NSW,Middle_Aged,3,3,0
+Male,,Health,High Net Worth,Yes,8,NSW,Middle_Aged,8,1,1
+Male,Chief Design Engineer,Retail,Mass Customer,No,6,VIC,Young,1,1,0
+Male,Account Executive,Entertainment,High Net Worth,No,8,NSW,Senior_Citizen,2,2,1
+Female,Information Systems Manager,Property,Mass Customer,Yes,7,QLD,Senior_Citizen,0,3,1
+Male,Legal Assistant,Manufacturing,Mass Customer,No,11,NSW,Young,1,0,1
+Female,Business Systems Development Analyst,,Mass Customer,No,7,NSW,Young,5,1,0
+Female,Occupational Therapist,Health,Affluent Customer,Yes,2,QLD,Middle_Aged,0,3,0
+Male,Statistician I,Financial Services,Mass Customer,Yes,11,NSW,Middle_Aged,7,3,0
+Male,,IT,Affluent Customer,No,8,NSW,Young,0,0,1
+Male,Payment Adjustment Coordinator,Retail,Mass Customer,Yes,8,VIC,Middle_Aged,6,3,0
+Male,Technical Writer,Health,Mass Customer,Yes,9,NSW,Middle_Aged,6,1,1
+Female,,,Mass Customer,No,11,NSW,Middle_Aged,6,3,0
+Male,Chief Design Engineer,Health,High Net Worth,No,8,NSW,Young,6,1,1
+Male,,IT,Mass Customer,No,1,QLD,Middle_Aged,9,3,1
+Male,Technical Writer,Manufacturing,Mass Customer,Yes,8,QLD,Young,0,3,0
+,Legal Assistant,IT,Affluent Customer,Yes,9,NSW,Senior_Citizen,3,2,0
+Male,Cost Accountant,Financial Services,High Net Worth,No,9,NSW,Middle_Aged,5,1,1
+Female,Associate Professor,Financial Services,Mass Customer,No,8,NSW,Senior_Citizen,4,1,0
+Female,VP Marketing,Health,Affluent Customer,Yes,4,QLD,Middle_Aged,4,2,1
+Male,Health Coach IV,Health,Mass Customer,Yes,10,NSW,Middle_Aged,5,2,1
+Male,Statistician I,Manufacturing,Mass Customer,Yes,9,NSW,Senior_Citizen,5,3,0
+Male,Mechanical Systems Engineer,,Mass Customer,No,9,NSW,Middle_Aged,9,2,0
+Female,Teacher,Property,Mass Customer,No,7,NSW,Senior_Citizen,5,3,1
+Female,Media Manager II,,Mass Customer,Yes,8,VIC,Young,2,2,1
+Male,,Health,Affluent Customer,No,8,NSW,Senior_Citizen,4,1,1
+Female,Mechanical Systems Engineer,Telecommunications,High Net Worth,Yes,8,NSW,Senior_Citizen,9,2,0
+Female,Director of Sales,,Mass Customer,Yes,10,NSW,Senior_Citizen,3,1,0
+Female,Design Engineer,Entertainment,Mass Customer,Yes,1,QLD,Senior_Citizen,8,3,1
+Male,Professor,,Mass Customer,Yes,8,QLD,Senior_Citizen,0,1,0
+Female,VP Quality Control,Manufacturing,High Net Worth,Yes,9,VIC,Middle_Aged,1,1,1
+Female,Nurse Practicioner,Manufacturing,Mass Customer,No,9,QLD,Senior_Citizen,9,1,1
+Male,Associate Professor,Manufacturing,Affluent Customer,Yes,4,VIC,Middle_Aged,5,3,0
+Male,Junior Executive,Health,Mass Customer,No,8,QLD,Senior_Citizen,2,2,0
+Female,Safety Technician II,,Mass Customer,Yes,5,QLD,Senior_Citizen,0,3,0
+Female,Recruiter,Manufacturing,Affluent Customer,Yes,10,VIC,Middle_Aged,0,0,1
+Female,Business Systems Development Analyst,Financial Services,High Net Worth,No,3,QLD,Middle_Aged,7,2,0
+Male,Senior Cost Accountant,Financial Services,Affluent Customer,Yes,7,QLD,Middle_Aged,4,2,0
+Male,Product Engineer,Property,High Net Worth,Yes,4,NSW,Middle_Aged,5,2,1
+Male,Analog Circuit Design manager,Entertainment,High Net Worth,No,3,QLD,Middle_Aged,5,3,1
+Female,Cost Accountant,Financial Services,Mass Customer,No,10,NSW,Middle_Aged,9,2,0
+Male,Software Test Engineer IV,Health,Affluent Customer,Yes,2,QLD,Middle_Aged,8,1,1
+Female,Sales Representative,Retail,Mass Customer,No,9,NSW,Senior_Citizen,1,1,0
+Female,Product Engineer,IT,Mass Customer,No,9,NSW,Middle_Aged,9,1,0
+Female,Structural Analysis Engineer,Financial Services,High Net Worth,No,12,NSW,Young,7,2,0
+Female,Nuclear Power Engineer,Manufacturing,Mass Customer,No,10,VIC,Senior_Citizen,1,3,0
+Female,Account Coordinator,Retail,Mass Customer,No,12,VIC,Senior_Citizen,4,3,1
+Male,Quality Control Specialist,,Mass Customer,No,3,QLD,Senior_Citizen,3,1,1
+Female,Product Engineer,,Mass Customer,Yes,6,QLD,Young,4,1,0
+Female,Geological Engineer,Manufacturing,High Net Worth,No,10,NSW,Middle_Aged,4,3,0
+Female,Recruiting Manager,Retail,Mass Customer,Yes,9,VIC,Middle_Aged,0,2,1
+Female,Analog Circuit Design manager,Argiculture,High Net Worth,No,6,QLD,Young,2,1,0
+Male,Software Engineer II,IT,Mass Customer,Yes,9,QLD,Young,8,2,0
+Female,Cost Accountant,Financial Services,Mass Customer,Yes,5,QLD,Senior_Citizen,3,1,0
+Male,Account Executive,Manufacturing,Affluent Customer,Yes,6,QLD,Young,5,0,1
+Female,,,Mass Customer,No,12,NSW,Senior_Citizen,5,2,0
+Female,Desktop Support Technician,Property,Mass Customer,Yes,8,NSW,Middle_Aged,8,3,1
+Female,Actuary,Financial Services,Mass Customer,No,7,VIC,Middle_Aged,8,1,1
+Male,Engineer IV,Manufacturing,Affluent Customer,Yes,7,VIC,Senior_Citizen,7,2,0
+Female,Database Administrator II,Health,High Net Worth,No,8,NSW,Middle_Aged,8,1,1
+Male,Chemical Engineer,Manufacturing,High Net Worth,Yes,7,VIC,Young,8,0,1
+Male,,Argiculture,Mass Customer,Yes,3,NSW,Senior_Citizen,7,1,0
+Female,Accountant III,Manufacturing,Mass Customer,No,10,NSW,Middle_Aged,9,0,0
+Male,Executive Secretary,Manufacturing,Mass Customer,No,9,NSW,Senior_Citizen,4,1,1
+Male,Structural Engineer,Manufacturing,Affluent Customer,No,9,NSW,Middle_Aged,3,2,0
+Female,Environmental Specialist,,Affluent Customer,Yes,3,VIC,Middle_Aged,9,1,1
+Female,Office Assistant II,Telecommunications,High Net Worth,No,12,NSW,Senior_Citizen,7,1,0
+Male,Research Associate,Health,Affluent Customer,Yes,9,VIC,Senior_Citizen,5,1,0
+Female,Database Administrator I,Financial Services,Mass Customer,Yes,9,VIC,Middle_Aged,6,3,0
+Female,General Manager,Financial Services,Affluent Customer,No,9,VIC,Middle_Aged,8,3,1
+Male,Graphic Designer,,Mass Customer,No,12,NSW,Middle_Aged,0,1,0
+Female,Design Engineer,Telecommunications,Mass Customer,Yes,8,VIC,Middle_Aged,2,2,0
+Female,Associate Professor,Manufacturing,Mass Customer,No,2,VIC,Middle_Aged,3,3,1
+Male,Quality Control Specialist,,Mass Customer,No,7,QLD,Senior_Citizen,8,3,1
+Female,Pharmacist,Health,Mass Customer,No,7,QLD,Middle_Aged,8,2,1
+Male,Payment Adjustment Coordinator,Financial Services,High Net Worth,Yes,3,NSW,Senior_Citizen,0,3,0
+Male,Senior Sales Associate,Argiculture,Affluent Customer,No,8,QLD,Senior_Citizen,7,2,1
+Female,Technical Writer,,Affluent Customer,No,10,QLD,Senior_Citizen,0,1,1
+Female,Account Representative IV,Retail,Affluent Customer,Yes,7,NSW,Middle_Aged,9,1,0
+Male,Account Coordinator,Manufacturing,High Net Worth,Yes,1,VIC,Young,5,2,1
+Female,Research Assistant I,,High Net Worth,No,11,NSW,Middle_Aged,9,2,1
+Male,Nuclear Power Engineer,Manufacturing,Affluent Customer,No,8,VIC,Middle_Aged,1,1,1
+Male,Chief Design Engineer,,Affluent Customer,No,6,VIC,Senior_Citizen,8,3,1
+Female,Associate Professor,Health,Mass Customer,Yes,7,VIC,Middle_Aged,8,1,0
+Male,Financial Advisor,Financial Services,Mass Customer,No,8,QLD,Middle_Aged,3,0,1
+Female,Senior Financial Analyst,Financial Services,Mass Customer,Yes,7,NSW,Young,6,1,1
+Male,,Property,High Net Worth,No,8,NSW,Middle_Aged,7,3,1
+Male,Account Executive,Financial Services,Mass Customer,Yes,8,NSW,Middle_Aged,9,0,1
+Female,,Argiculture,Mass Customer,No,8,NSW,Young,9,2,0
+Female,Physical Therapy Assistant,Retail,Mass Customer,No,11,NSW,Senior_Citizen,5,3,1
+Male,Systems Administrator I,Retail,Mass Customer,Yes,5,QLD,Young,3,2,0
+Female,Cost Accountant,Financial Services,Mass Customer,No,9,VIC,Young,9,1,1
+Male,Systems Administrator IV,Health,Affluent Customer,Yes,12,NSW,Middle_Aged,7,2,1
+Female,Account Executive,,Affluent Customer,No,11,NSW,Senior_Citizen,5,2,0
+Female,Quality Engineer,Financial Services,High Net Worth,Yes,8,QLD,Senior_Citizen,4,2,1
+Female,Recruiting Manager,Financial Services,Mass Customer,No,7,QLD,Middle_Aged,8,1,1
+Male,Marketing Manager,,Affluent Customer,Yes,9,NSW,Senior_Citizen,0,2,1
+Female,,Financial Services,High Net Worth,Yes,3,NSW,Senior_Citizen,6,3,1
+Female,Occupational Therapist,Health,Mass Customer,No,6,NSW,Middle_Aged,4,2,0
+Male,,Manufacturing,Mass Customer,Yes,6,NSW,Middle_Aged,2,2,0
+Female,,Property,High Net Worth,Yes,11,VIC,Young,3,2,0
+Female,Design Engineer,Health,Mass Customer,No,5,VIC,Middle_Aged,2,1,1
+Male,Teacher,Manufacturing,High Net Worth,No,8,NSW,Young,6,1,0
+Male,Senior Sales Associate,Manufacturing,Mass Customer,No,11,NSW,Middle_Aged,9,1,1
+Female,Operator,,High Net Worth,Yes,8,QLD,Young,7,0,1
+Female,Office Assistant I,Manufacturing,High Net Worth,No,9,VIC,Middle_Aged,9,3,0
+Female,Pharmacist,Health,Mass Customer,Yes,6,VIC,Senior_Citizen,0,3,0
+Female,,Property,Mass Customer,Yes,7,QLD,Middle_Aged,2,3,0
+Female,Human Resources Assistant II,Health,Affluent Customer,Yes,8,NSW,Senior_Citizen,7,2,1
+Male,Analyst Programmer,Financial Services,Affluent Customer,Yes,9,NSW,Middle_Aged,8,0,1
+Male,Information Systems Manager,,High Net Worth,Yes,7,VIC,Middle_Aged,7,1,1
+Male,Engineer III,Financial Services,High Net Worth,No,6,NSW,Middle_Aged,2,2,1
+Female,Software Engineer I,Property,Mass Customer,No,9,NSW,Middle_Aged,0,3,0
+Male,Account Representative I,Manufacturing,High Net Worth,No,9,VIC,Young,3,1,0
+,Legal Assistant,IT,Mass Customer,Yes,3,VIC,Senior_Citizen,6,0,0
+Female,Programmer III,Health,High Net Worth,No,1,VIC,Senior_Citizen,1,1,1
+Female,Senior Sales Associate,Financial Services,Mass Customer,Yes,4,QLD,Senior_Citizen,1,3,1
+Male,VP Sales,,Mass Customer,No,5,QLD,Middle_Aged,8,2,1
+Male,Technical Writer,Manufacturing,High Net Worth,No,6,QLD,Middle_Aged,3,3,0
+Female,Senior Developer,Property,Mass Customer,No,4,NSW,Middle_Aged,3,2,0
+Male,Accountant IV,,Affluent Customer,No,3,QLD,Young,1,1,1
+Male,Marketing Manager,,High Net Worth,Yes,9,NSW,Senior_Citizen,4,3,1
+Male,Librarian,Entertainment,Mass Customer,Yes,8,VIC,Young,6,1,1
+Male,Media Manager I,Retail,Affluent Customer,Yes,2,VIC,Middle_Aged,3,1,0
+Female,Financial Advisor,Financial Services,Mass Customer,Yes,10,NSW,Senior_Citizen,6,3,1
+Male,Civil Engineer,Manufacturing,Mass Customer,No,9,NSW,Senior_Citizen,8,1,0
+Female,Environmental Tech,Financial Services,Mass Customer,Yes,7,VIC,Young,0,3,0
+Male,Chief Design Engineer,,Affluent Customer,No,8,VIC,Middle_Aged,5,2,1
+Male,,Manufacturing,Mass Customer,Yes,4,NSW,Senior_Citizen,1,3,1
+Female,Editor,,High Net Worth,Yes,9,VIC,Middle_Aged,8,1,0
+Female,Human Resources Manager,Health,Affluent Customer,Yes,3,QLD,Middle_Aged,9,3,1
+Female,Software Consultant,IT,Mass Customer,Yes,10,VIC,Middle_Aged,3,2,0
+Male,Data Coordiator,IT,Affluent Customer,No,6,QLD,Senior_Citizen,8,2,1
+Female,VP Marketing,Manufacturing,Mass Customer,Yes,10,QLD,Senior_Citizen,2,3,1
+Male,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,7,QLD,Middle_Aged,1,2,1
+Female,,IT,Mass Customer,Yes,8,NSW,Senior_Citizen,7,1,0
+Female,Associate Professor,Property,Mass Customer,Yes,9,NSW,Senior_Citizen,4,1,0
+Male,Software Consultant,Financial Services,High Net Worth,Yes,6,QLD,Senior_Citizen,2,3,1
+Female,Social Worker,Health,Mass Customer,No,1,NSW,Senior_Citizen,1,1,1
+Male,Web Developer IV,Manufacturing,High Net Worth,No,10,VIC,Middle_Aged,6,2,1
+Male,Assistant Manager,,Mass Customer,No,8,QLD,Senior_Citizen,1,3,1
+Female,,Financial Services,Mass Customer,No,6,NSW,Middle_Aged,5,2,0
+Female,Environmental Specialist,Argiculture,Mass Customer,Yes,10,VIC,Senior_Citizen,7,3,0
+Male,Pharmacist,Health,Affluent Customer,Yes,8,NSW,Senior_Citizen,1,2,1
+Female,Technical Writer,,Affluent Customer,Yes,5,VIC,Young,5,2,0
+Female,Registered Nurse,Health,Affluent Customer,No,8,NSW,Middle_Aged,4,2,0
+Female,Human Resources Manager,Health,Mass Customer,Yes,7,VIC,Senior_Citizen,3,2,1
+Male,Electrical Engineer,Manufacturing,Affluent Customer,No,11,NSW,Middle_Aged,5,2,0
+,Assistant Media Planner,Entertainment,Affluent Customer,No,8,QLD,Senior_Citizen,6,1,1
+Male,Media Manager IV,Retail,High Net Worth,No,7,VIC,Young,9,2,1
+,Programmer II,IT,Mass Customer,Yes,7,VIC,Senior_Citizen,7,2,1
+Male,Senior Editor,Telecommunications,Mass Customer,No,10,NSW,Middle_Aged,0,2,0
+Female,Nurse Practicioner,Financial Services,Mass Customer,Yes,2,NSW,Young,6,2,0
+Male,Technical Writer,Financial Services,Mass Customer,No,11,VIC,Senior_Citizen,1,2,0
+Female,Computer Systems Analyst II,Financial Services,Mass Customer,Yes,4,NSW,Young,6,3,1
+Male,,Health,Affluent Customer,No,10,QLD,Middle_Aged,6,3,1
+Female,Business Systems Development Analyst,Financial Services,Mass Customer,No,8,NSW,Middle_Aged,8,2,1
+Male,Paralegal,Financial Services,High Net Worth,Yes,7,VIC,Senior_Citizen,1,1,0
+Female,Recruiting Manager,,Mass Customer,Yes,9,NSW,Senior_Citizen,0,3,1
+Male,Help Desk Technician,IT,High Net Worth,No,4,VIC,Young,5,0,0
+Female,Help Desk Technician,,Mass Customer,No,11,QLD,Middle_Aged,5,2,1
+Male,Food Chemist,Health,Mass Customer,Yes,9,NSW,Middle_Aged,3,1,1
+Male,Librarian,Entertainment,Mass Customer,No,10,NSW,Middle_Aged,0,1,1
+Male,Web Designer I,Financial Services,Affluent Customer,No,11,VIC,Middle_Aged,5,2,0
+,Structural Analysis Engineer,IT,Mass Customer,No,6,QLD,Senior_Citizen,6,3,0
+Male,Director of Sales,,High Net Worth,Yes,8,QLD,Senior_Citizen,0,3,1
+Male,,IT,High Net Worth,No,2,QLD,Middle_Aged,6,2,1
+Female,Human Resources Assistant I,Financial Services,High Net Worth,No,1,VIC,Middle_Aged,8,0,1
+Female,Nuclear Power Engineer,Manufacturing,Affluent Customer,No,6,VIC,Middle_Aged,3,2,1
+Female,Data Coordiator,Financial Services,Mass Customer,Yes,5,QLD,Senior_Citizen,4,3,0
+Female,Junior Executive,Manufacturing,Mass Customer,No,6,NSW,Middle_Aged,0,2,1
+Female,VP Product Management,Financial Services,Affluent Customer,Yes,12,NSW,Young,0,0,0
+Male,Data Coordiator,Health,Mass Customer,Yes,10,NSW,Middle_Aged,8,1,1
+Female,Product Engineer,Entertainment,Affluent Customer,No,7,NSW,Senior_Citizen,6,3,0
+Male,Staff Scientist,Financial Services,Affluent Customer,Yes,6,VIC,Young,8,1,1
+Male,Help Desk Operator,Manufacturing,High Net Worth,Yes,7,QLD,Senior_Citizen,4,1,1
+Female,,Health,Mass Customer,No,8,NSW,Senior_Citizen,1,2,1
+Female,Account Executive,,Affluent Customer,Yes,5,VIC,Middle_Aged,1,1,1
+Male,Structural Engineer,Telecommunications,Affluent Customer,No,3,QLD,Young,5,1,0
+Female,Quality Control Specialist,,Mass Customer,No,7,NSW,Senior_Citizen,7,3,1
+Female,Chief Design Engineer,,High Net Worth,No,6,VIC,Middle_Aged,2,3,1
+Female,Senior Editor,Manufacturing,Affluent Customer,No,10,NSW,Senior_Citizen,9,2,0
+Male,Data Coordiator,Retail,Mass Customer,Yes,11,NSW,Middle_Aged,3,1,1
+Male,Quality Engineer,Financial Services,Mass Customer,No,9,VIC,Senior_Citizen,1,3,1
+Male,,Manufacturing,Mass Customer,Yes,9,VIC,Young,7,1,1
+Female,Assistant Media Planner,Entertainment,Mass Customer,Yes,12,NSW,Senior_Citizen,7,1,0
+Female,VP Sales,Health,Mass Customer,Yes,3,QLD,Young,6,0,0
+Female,,Entertainment,High Net Worth,Yes,5,QLD,Senior_Citizen,8,3,0
+Male,Environmental Specialist,Health,Mass Customer,Yes,8,NSW,Senior_Citizen,5,3,1
+Male,Financial Advisor,Financial Services,Affluent Customer,No,10,NSW,Middle_Aged,7,3,0
+Male,Software Consultant,IT,Mass Customer,No,5,NSW,Middle_Aged,5,2,0
+Female,Senior Financial Analyst,Financial Services,Mass Customer,Yes,10,VIC,Middle_Aged,9,2,1
+Male,Analyst Programmer,,Mass Customer,Yes,7,VIC,Senior_Citizen,5,2,1
+Male,Cost Accountant,Financial Services,Affluent Customer,Yes,11,NSW,Middle_Aged,8,3,0
+Female,Help Desk Operator,Manufacturing,High Net Worth,Yes,7,VIC,Middle_Aged,6,3,1
+Female,,Financial Services,Mass Customer,Yes,11,NSW,Middle_Aged,0,2,0
+Male,Graphic Designer,Health,Mass Customer,No,11,NSW,Senior_Citizen,2,3,0
+Female,Programmer III,Health,High Net Worth,No,7,VIC,Young,2,2,1
+Female,Social Worker,Health,High Net Worth,No,10,VIC,Middle_Aged,7,2,1
+Female,Speech Pathologist,,Affluent Customer,No,7,NSW,Senior_Citizen,1,3,1
+Female,,,Mass Customer,Yes,8,NSW,Senior_Citizen,8,3,0
+Male,Nuclear Power Engineer,Manufacturing,Mass Customer,No,11,VIC,Young,8,2,1
+Male,Civil Engineer,Manufacturing,Mass Customer,No,8,NSW,Senior_Citizen,6,3,1
+Female,Health Coach IV,Health,High Net Worth,No,12,NSW,Senior_Citizen,4,2,1
+Male,,Manufacturing,Mass Customer,No,9,NSW,Senior_Citizen,3,1,0
+Male,Data Coordiator,Argiculture,Mass Customer,Yes,2,QLD,Middle_Aged,5,3,0
+Male,Assistant Media Planner,Entertainment,Affluent Customer,No,3,VIC,Senior_Citizen,5,3,1
+Female,Product Engineer,Financial Services,Mass Customer,No,3,NSW,Young,4,1,0
+Male,Engineer IV,Financial Services,Affluent Customer,Yes,10,NSW,Young,7,0,0
+Female,Information Systems Manager,Financial Services,Mass Customer,No,1,NSW,Young,3,0,1
+Female,,Property,Mass Customer,No,11,NSW,Senior_Citizen,9,2,0
+Male,Operator,Argiculture,Mass Customer,Yes,8,NSW,Middle_Aged,9,2,0
+Male,Systems Administrator III,Property,Mass Customer,No,9,NSW,Young,0,2,1
+Male,Sales Representative,Retail,Affluent Customer,No,5,VIC,Young,8,3,0
+Male,Software Engineer III,Manufacturing,Mass Customer,Yes,9,NSW,Senior_Citizen,7,3,1
+Female,Senior Financial Analyst,Financial Services,Mass Customer,Yes,9,QLD,Senior_Citizen,1,3,1
+Female,Developer IV,,Mass Customer,Yes,7,NSW,Middle_Aged,9,3,0
+Female,Chemical Engineer,Manufacturing,High Net Worth,No,9,NSW,Middle_Aged,5,2,1
+Female,Database Administrator II,Property,Affluent Customer,Yes,9,NSW,Middle_Aged,0,3,0
+Female,Environmental Specialist,,Affluent Customer,No,4,NSW,Senior_Citizen,5,1,0
+Male,Research Assistant IV,Argiculture,Mass Customer,Yes,8,NSW,Middle_Aged,2,0,1
+Female,Account Executive,IT,Mass Customer,Yes,9,NSW,Middle_Aged,5,3,0
+Male,Nurse Practicioner,Health,Mass Customer,No,4,QLD,Senior_Citizen,7,3,0
+Male,Director of Sales,Property,Affluent Customer,No,8,VIC,Middle_Aged,6,2,0
+,Internal Auditor,IT,Mass Customer,No,5,VIC,Senior_Citizen,5,1,1
+Male,Community Outreach Specialist,Entertainment,High Net Worth,Yes,7,VIC,Middle_Aged,1,3,1
+Male,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes,8,NSW,Young,3,2,1
+Male,Geologist III,Property,Affluent Customer,Yes,2,VIC,Middle_Aged,2,1,0
+Male,Actuary,Financial Services,Mass Customer,No,10,NSW,Senior_Citizen,4,1,1
+,Tax Accountant,IT,Mass Customer,Yes,6,VIC,Senior_Citizen,9,2,1
+Female,Librarian,Entertainment,High Net Worth,Yes,1,NSW,Senior_Citizen,5,2,0
+Male,Software Consultant,Financial Services,Affluent Customer,No,8,VIC,Young,1,3,0
+Female,General Manager,Argiculture,Mass Customer,Yes,2,NSW,Middle_Aged,3,2,1
+Female,Senior Developer,IT,Mass Customer,No,2,NSW,Middle_Aged,5,1,0
+Female,Research Associate,Financial Services,Mass Customer,Yes,7,QLD,Middle_Aged,7,2,0
+Male,VP Sales,Financial Services,Affluent Customer,No,5,QLD,Young,6,1,1
+Male,Programmer I,Property,High Net Worth,Yes,11,VIC,Senior_Citizen,5,1,1
+Female,Quality Engineer,Manufacturing,High Net Worth,Yes,4,QLD,Middle_Aged,8,1,1
+Male,Legal Assistant,Retail,Affluent Customer,No,10,NSW,Middle_Aged,6,2,1
+Female,Human Resources Manager,,High Net Worth,Yes,10,NSW,Young,4,0,0
+Female,Programmer Analyst III,Financial Services,Mass Customer,No,4,VIC,Young,8,1,1
+Female,Help Desk Operator,Retail,High Net Worth,Yes,5,VIC,Young,0,2,1
+Female,Chemical Engineer,Manufacturing,High Net Worth,No,9,NSW,Senior_Citizen,1,3,1
+Male,Automation Specialist IV,Financial Services,High Net Worth,No,11,NSW,Middle_Aged,4,2,0
+Male,VP Accounting,Financial Services,Mass Customer,No,11,NSW,Middle_Aged,7,3,1
+Female,VP Sales,,High Net Worth,No,6,VIC,Senior_Citizen,2,2,1
+Female,Information Systems Manager,Manufacturing,High Net Worth,No,3,QLD,Middle_Aged,1,3,1
+Female,,,Affluent Customer,Yes,8,QLD,Middle_Aged,1,2,1
+Female,Software Engineer III,Financial Services,Mass Customer,No,10,VIC,Senior_Citizen,6,3,0
+Male,,Retail,Affluent Customer,Yes,12,NSW,Senior_Citizen,0,3,0
+Female,,Property,Mass Customer,Yes,3,QLD,Middle_Aged,6,2,1
+Female,Office Assistant II,,Mass Customer,Yes,9,NSW,Senior_Citizen,5,3,0
+Female,Chief Design Engineer,Retail,Mass Customer,No,4,VIC,Senior_Citizen,2,1,1
+Male,Software Test Engineer IV,Property,Mass Customer,Yes,7,NSW,Middle_Aged,5,1,0
+Female,Quality Engineer,Retail,Mass Customer,No,11,NSW,Middle_Aged,2,3,1
+Female,Social Worker,Health,High Net Worth,Yes,10,VIC,Young,2,0,1
+Male,Business Systems Development Analyst,Financial Services,Mass Customer,No,8,QLD,Middle_Aged,4,3,0
+Female,Programmer Analyst III,,Mass Customer,Yes,7,NSW,Middle_Aged,3,3,1
+Female,Assistant Manager,Argiculture,Mass Customer,No,9,NSW,Young,7,2,1
+Female,Graphic Designer,IT,Mass Customer,No,10,VIC,Young,5,2,0
+Female,Nurse Practicioner,Retail,Mass Customer,Yes,7,QLD,Young,5,0,1
+Male,VP Marketing,Telecommunications,Mass Customer,Yes,9,VIC,Middle_Aged,9,3,1
+Male,Accountant II,Manufacturing,Affluent Customer,No,10,NSW,Young,0,1,1
+Male,Geologist III,IT,Affluent Customer,Yes,5,NSW,Senior_Citizen,9,3,0
+Male,Assistant Media Planner,Entertainment,Mass Customer,Yes,10,NSW,Middle_Aged,3,3,1
+Male,Food Chemist,Health,Affluent Customer,Yes,3,NSW,Young,0,1,0
+Female,Administrative Assistant II,Entertainment,Mass Customer,No,10,VIC,Middle_Aged,2,3,1
+Female,Actuary,Financial Services,High Net Worth,No,8,NSW,Young,4,2,0
+Male,VP Quality Control,,Mass Customer,No,9,NSW,Senior_Citizen,8,2,0
+Female,Dental Hygienist,Health,High Net Worth,No,7,NSW,Senior_Citizen,7,3,0
+Male,Media Manager IV,Health,Mass Customer,Yes,7,VIC,Middle_Aged,2,2,0
+Male,Compensation Analyst,Financial Services,Mass Customer,Yes,2,VIC,Senior_Citizen,9,1,1
+Female,Account Representative IV,Retail,Affluent Customer,No,7,NSW,Senior_Citizen,1,2,0
+Male,Programmer IV,,Mass Customer,Yes,7,NSW,Senior_Citizen,8,2,0
+Male,Assistant Manager,Manufacturing,High Net Worth,No,4,VIC,Middle_Aged,2,2,1
+Male,VP Sales,Financial Services,High Net Worth,Yes,4,QLD,Senior_Citizen,4,2,1
+Female,Senior Sales Associate,Financial Services,High Net Worth,No,6,VIC,Middle_Aged,6,1,1
+Male,,Financial Services,High Net Worth,Yes,3,QLD,Middle_Aged,8,3,0
+Male,Human Resources Manager,,High Net Worth,Yes,1,VIC,Young,0,1,1
+Female,Staff Scientist,,Affluent Customer,Yes,3,NSW,Middle_Aged,6,2,1
+Female,Web Designer IV,Manufacturing,Mass Customer,Yes,9,NSW,Middle_Aged,7,2,1
+Female,Media Manager III,Retail,Mass Customer,No,8,VIC,Middle_Aged,5,2,0
+Female,Administrative Officer,Manufacturing,Mass Customer,No,8,NSW,Young,5,0,1
+Female,Programmer II,,Mass Customer,Yes,9,VIC,Senior_Citizen,1,3,1
+Male,Nurse Practicioner,IT,Affluent Customer,No,7,QLD,Middle_Aged,3,2,0
+Male,Geologist IV,Financial Services,Affluent Customer,Yes,10,NSW,Young,8,2,0
+Female,Analyst Programmer,Property,High Net Worth,No,11,NSW,Senior_Citizen,5,2,0
+Female,Operator,,Affluent Customer,No,4,NSW,Senior_Citizen,6,3,1
+Female,Assistant Manager,,Mass Customer,No,9,NSW,Young,5,1,0
+Female,Compensation Analyst,Financial Services,Mass Customer,Yes,5,QLD,Senior_Citizen,0,2,0
+Male,Structural Analysis Engineer,Argiculture,Mass Customer,No,10,VIC,Middle_Aged,8,3,0
+Male,Software Consultant,,Mass Customer,Yes,9,NSW,Middle_Aged,2,1,1
+Female,Assistant Media Planner,Entertainment,Affluent Customer,Yes,7,NSW,Middle_Aged,1,3,0
+Male,Payment Adjustment Coordinator,Retail,High Net Worth,Yes,4,QLD,Senior_Citizen,6,3,1
+Female,Graphic Designer,,Mass Customer,Yes,9,NSW,Middle_Aged,3,3,0
+Male,Payment Adjustment Coordinator,,High Net Worth,No,7,NSW,Senior_Citizen,1,2,0
+Male,Marketing Assistant,,Affluent Customer,No,7,VIC,Middle_Aged,4,0,0
+Female,Teacher,,Mass Customer,Yes,8,QLD,Middle_Aged,9,3,0
+Female,VP Product Management,Manufacturing,Mass Customer,Yes,9,NSW,Middle_Aged,0,2,1
+Male,Help Desk Technician,,Affluent Customer,No,11,NSW,Middle_Aged,4,1,1
+Male,Financial Analyst,Financial Services,Mass Customer,No,8,NSW,Middle_Aged,0,2,1
+Male,Marketing Manager,Retail,High Net Worth,No,9,VIC,Young,5,2,0
+Female,Data Coordiator,Manufacturing,High Net Worth,No,8,VIC,Middle_Aged,8,1,1
+Female,,Health,Mass Customer,Yes,2,QLD,Senior_Citizen,9,2,0
+Female,Senior Cost Accountant,Financial Services,Mass Customer,Yes,9,QLD,Young,7,2,1
+Female,,Manufacturing,Mass Customer,No,2,VIC,Middle_Aged,9,1,0
+Male,Physical Therapy Assistant,,Mass Customer,Yes,9,NSW,Young,7,1,1
+Female,,Manufacturing,High Net Worth,Yes,8,QLD,Middle_Aged,8,2,0
+Female,,Manufacturing,Affluent Customer,No,4,NSW,Young,7,2,0
+Female,Environmental Tech,Retail,Mass Customer,Yes,6,QLD,Senior_Citizen,8,1,0
+Female,Senior Quality Engineer,Manufacturing,High Net Worth,No,9,NSW,Senior_Citizen,3,2,1
+Male,,,Mass Customer,Yes,8,VIC,Senior_Citizen,4,2,0
+Male,Chief Design Engineer,Entertainment,High Net Worth,No,12,NSW,Young,6,0,0
+Male,Senior Sales Associate,Argiculture,Affluent Customer,Yes,6,NSW,Senior_Citizen,4,2,0
+Male,Structural Engineer,Manufacturing,High Net Worth,Yes,7,VIC,Middle_Aged,7,1,0
+Male,Environmental Tech,Telecommunications,High Net Worth,Yes,10,VIC,Senior_Citizen,1,2,0
+Female,,Financial Services,Mass Customer,Yes,12,VIC,Middle_Aged,2,2,0
+Male,Research Assistant IV,Financial Services,Affluent Customer,No,8,VIC,Senior_Citizen,9,2,1
+Female,Desktop Support Technician,,High Net Worth,No,9,NSW,Middle_Aged,5,1,1
+Female,Office Assistant IV,IT,High Net Worth,No,11,NSW,Middle_Aged,5,3,1
+Female,Product Engineer,,Mass Customer,No,4,NSW,Young,1,2,0
+Female,Chief Design Engineer,Financial Services,Mass Customer,Yes,6,NSW,Middle_Aged,7,1,0
+Male,Physical Therapy Assistant,Retail,Mass Customer,No,8,VIC,Middle_Aged,6,1,1
+Male,Associate Professor,Financial Services,Mass Customer,No,3,NSW,Senior_Citizen,5,1,1
+Male,Computer Systems Analyst I,Financial Services,High Net Worth,Yes,8,VIC,Senior_Citizen,6,3,1
+Female,Editor,Financial Services,Mass Customer,Yes,7,QLD,Senior_Citizen,1,3,0
+Male,Software Consultant,Argiculture,Mass Customer,Yes,6,NSW,Middle_Aged,1,3,1
+Male,Marketing Assistant,Health,Affluent Customer,No,8,VIC,Young,6,3,0
+Female,Database Administrator III,Manufacturing,High Net Worth,No,7,VIC,Middle_Aged,4,3,0
+Female,Accounting Assistant III,Manufacturing,Mass Customer,No,12,NSW,Young,3,1,1
+Male,Civil Engineer,Manufacturing,High Net Worth,No,10,NSW,Middle_Aged,8,1,0
+Female,VP Product Management,Manufacturing,Affluent Customer,No,5,QLD,Middle_Aged,7,2,0
+Female,Accounting Assistant I,Financial Services,Affluent Customer,No,9,NSW,Middle_Aged,1,3,1
+Male,VP Sales,Manufacturing,Mass Customer,No,7,NSW,Senior_Citizen,6,1,0
+Male,Chemical Engineer,Manufacturing,High Net Worth,Yes,6,VIC,Young,6,0,1
+Female,Food Chemist,Health,Mass Customer,No,12,NSW,Middle_Aged,0,2,1
+Female,Accountant III,Financial Services,Mass Customer,No,7,NSW,Middle_Aged,9,1,0
+Female,Senior Editor,Entertainment,High Net Worth,Yes,10,NSW,Middle_Aged,3,1,0
+Male,Programmer III,Retail,Affluent Customer,No,9,NSW,Middle_Aged,6,2,1
+Female,Marketing Manager,Financial Services,High Net Worth,Yes,12,NSW,Young,4,2,1
+Female,Professor,Manufacturing,High Net Worth,Yes,9,VIC,Middle_Aged,3,2,0
+Female,Financial Analyst,Financial Services,High Net Worth,Yes,6,QLD,Middle_Aged,8,1,1
+Male,Internal Auditor,Manufacturing,Mass Customer,Yes,3,QLD,Young,1,2,0
+Female,Developer I,Financial Services,Affluent Customer,No,6,NSW,Senior_Citizen,5,3,0
+Female,Analyst Programmer,Financial Services,High Net Worth,Yes,8,NSW,Young,7,2,0
+Male,Help Desk Technician,Manufacturing,High Net Worth,No,7,NSW,Young,2,2,0
+Male,Senior Cost Accountant,Financial Services,High Net Worth,No,3,VIC,Middle_Aged,7,2,1
+Male,Speech Pathologist,Manufacturing,High Net Worth,No,9,NSW,Young,4,2,1
+Male,Geological Engineer,Manufacturing,High Net Worth,No,12,NSW,Senior_Citizen,7,1,1
+Male,Account Coordinator,Manufacturing,High Net Worth,No,6,NSW,Senior_Citizen,6,2,1
+Male,Research Assistant II,,Mass Customer,No,3,QLD,Senior_Citizen,1,2,1
+Female,,Property,Mass Customer,No,8,QLD,Senior_Citizen,8,1,0
+Male,Executive Secretary,Financial Services,Mass Customer,Yes,10,QLD,Young,0,2,1
+Male,Software Consultant,Health,Affluent Customer,No,10,NSW,Middle_Aged,6,2,0
+Female,Account Representative IV,Retail,Affluent Customer,Yes,9,NSW,Senior_Citizen,8,3,0
+Male,Actuary,Financial Services,High Net Worth,Yes,6,NSW,Senior_Citizen,7,3,1
+Female,Executive Secretary,Telecommunications,High Net Worth,Yes,10,NSW,Middle_Aged,1,2,0
+Male,Internal Auditor,,Mass Customer,Yes,7,VIC,Middle_Aged,4,2,1
+Male,Assistant Media Planner,Entertainment,Mass Customer,No,1,QLD,Young,8,2,0
+Female,Electrical Engineer,Manufacturing,Mass Customer,Yes,7,QLD,Young,6,0,1
+Female,Research Assistant III,Financial Services,Mass Customer,Yes,8,NSW,Middle_Aged,5,3,1
+Male,Assistant Media Planner,Entertainment,Mass Customer,Yes,9,NSW,Senior_Citizen,8,3,0
+Male,Accounting Assistant I,Financial Services,Mass Customer,No,8,NSW,Senior_Citizen,0,3,0
+Female,Programmer Analyst I,Property,High Net Worth,Yes,7,VIC,Middle_Aged,4,3,0
+,Human Resources Manager,IT,Mass Customer,No,7,NSW,Senior_Citizen,6,2,1
+Female,,,Mass Customer,No,7,NSW,Young,6,0,0
+Male,Sales Associate,Financial Services,Affluent Customer,No,2,VIC,Senior_Citizen,9,1,0
+Male,Senior Sales Associate,Financial Services,High Net Worth,Yes,9,NSW,Middle_Aged,3,1,0
+Female,Sales Representative,Retail,Mass Customer,No,9,NSW,Young,6,2,0
+Male,Data Coordiator,,Mass Customer,Yes,8,VIC,Young,7,2,0
+Female,Structural Engineer,Telecommunications,Mass Customer,No,10,NSW,Middle_Aged,4,2,1
+Female,Account Coordinator,Manufacturing,High Net Worth,Yes,8,QLD,Young,0,2,0
+Female,Recruiter,,Affluent Customer,Yes,11,NSW,Young,0,0,0
+Male,Registered Nurse,Health,Mass Customer,Yes,7,NSW,Young,0,2,0
+Female,Environmental Specialist,Health,Mass Customer,No,1,VIC,Senior_Citizen,2,2,0
+Female,Web Developer II,Manufacturing,Affluent Customer,No,3,VIC,Senior_Citizen,2,3,1
+Male,Statistician III,Health,Affluent Customer,No,6,QLD,Young,3,2,1
+Male,Cost Accountant,Financial Services,Affluent Customer,Yes,8,QLD,Young,9,0,1
+Male,Programmer Analyst IV,Health,High Net Worth,No,8,NSW,Middle_Aged,8,3,1
+Female,Account Executive,Manufacturing,High Net Worth,Yes,7,VIC,Middle_Aged,3,3,1
+Male,Engineer IV,Manufacturing,Mass Customer,No,6,VIC,Middle_Aged,0,2,0
+Female,Tax Accountant,Retail,Affluent Customer,Yes,8,VIC,Young,4,2,0
+Male,Mechanical Systems Engineer,Financial Services,Mass Customer,No,5,VIC,Middle_Aged,8,1,1
+Male,Accountant I,Property,Mass Customer,No,8,NSW,Senior_Citizen,1,3,1
+Female,Sales Associate,Financial Services,Affluent Customer,Yes,3,VIC,Middle_Aged,2,1,1
+Female,Nurse Practicioner,,Mass Customer,Yes,8,VIC,Senior_Citizen,0,2,0
+Male,Senior Sales Associate,,Mass Customer,Yes,5,NSW,Middle_Aged,5,1,1
+Male,Assistant Media Planner,Entertainment,High Net Worth,No,11,NSW,Young,2,0,0
+,Project Manager,IT,Affluent Customer,No,11,NSW,Senior_Citizen,1,1,1
+Female,Legal Assistant,,Mass Customer,No,12,NSW,Senior_Citizen,5,2,0
+Male,Compensation Analyst,Financial Services,Affluent Customer,Yes,9,NSW,Young,6,3,0
+Male,Data Coordiator,Health,Affluent Customer,Yes,11,NSW,Young,6,2,1
+Female,Director of Sales,Manufacturing,Mass Customer,Yes,7,QLD,Middle_Aged,4,2,1
+Male,Physical Therapy Assistant,,Affluent Customer,Yes,7,VIC,Senior_Citizen,9,2,1
+Female,Operator,IT,Affluent Customer,Yes,10,VIC,Middle_Aged,2,2,0
+Female,Budget/Accounting Analyst II,,Affluent Customer,No,9,NSW,Senior_Citizen,3,3,1
+Male,Automation Specialist III,Manufacturing,Mass Customer,Yes,8,NSW,Senior_Citizen,9,3,1
+Female,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes,6,NSW,Middle_Aged,8,2,0
+Male,VP Product Management,Health,Mass Customer,Yes,8,NSW,Middle_Aged,7,1,0
+Female,Professor,Manufacturing,Mass Customer,Yes,8,NSW,Young,9,1,0
+Male,VP Marketing,Property,High Net Worth,No,7,QLD,Middle_Aged,6,3,0
+Female,,Property,Mass Customer,Yes,3,QLD,Middle_Aged,8,1,0
+Male,Environmental Tech,Health,Affluent Customer,Yes,8,NSW,Senior_Citizen,2,3,0
+Male,Media Manager II,Retail,Mass Customer,Yes,8,VIC,Senior_Citizen,3,2,1
+Female,Software Engineer II,IT,Mass Customer,No,9,NSW,Senior_Citizen,6,1,1
+Male,Administrative Assistant I,Health,Mass Customer,Yes,12,NSW,Middle_Aged,6,1,1
+Female,Programmer II,Property,Affluent Customer,Yes,11,NSW,Senior_Citizen,4,3,0
+Female,Civil Engineer,Manufacturing,Mass Customer,No,7,QLD,Middle_Aged,4,1,1
+Female,,Retail,High Net Worth,No,9,NSW,Senior_Citizen,6,3,1
+Female,,Financial Services,Mass Customer,Yes,4,QLD,Middle_Aged,2,1,0
+Male,Product Engineer,Financial Services,Mass Customer,Yes,2,NSW,Senior_Citizen,8,1,1
+Female,,,Mass Customer,Yes,9,NSW,Senior_Citizen,6,3,0
+Male,Engineer I,Manufacturing,Mass Customer,Yes,7,QLD,Young,3,1,1
+Male,Health Coach III,Health,Mass Customer,No,9,QLD,Middle_Aged,1,3,1
+Female,Chemical Engineer,Manufacturing,Affluent Customer,Yes,9,QLD,Senior_Citizen,9,1,0
+Male,Geologist IV,Manufacturing,Affluent Customer,Yes,9,NSW,Young,5,1,0
+Female,,,Affluent Customer,Yes,7,VIC,Middle_Aged,1,1,0
+Male,Junior Executive,Manufacturing,Mass Customer,No,7,QLD,Senior_Citizen,3,1,1
+Male,,Property,Affluent Customer,Yes,2,NSW,Senior_Citizen,4,2,1
+Male,Tax Accountant,,Mass Customer,No,9,NSW,Senior_Citizen,0,2,0
+Male,,,High Net Worth,Yes,7,NSW,Middle_Aged,4,3,0
+Female,Legal Assistant,Health,Mass Customer,Yes,5,QLD,Senior_Citizen,8,3,0
+Female,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes,8,VIC,Middle_Aged,0,2,0
+Male,Marketing Assistant,Retail,Mass Customer,No,6,QLD,Young,8,2,0
+Male,Desktop Support Technician,Financial Services,Mass Customer,Yes,5,QLD,Senior_Citizen,9,3,1
+Male,Pharmacist,Health,High Net Worth,No,1,VIC,Senior_Citizen,2,3,1
+Male,Assistant Professor,Retail,High Net Worth,No,10,NSW,Middle_Aged,9,1,0
+Female,Senior Editor,Financial Services,Affluent Customer,Yes,6,VIC,Senior_Citizen,3,2,1
+Female,,Retail,Affluent Customer,Yes,10,NSW,Senior_Citizen,7,2,1
+Female,Statistician II,Retail,Affluent Customer,No,8,VIC,Middle_Aged,1,2,1
+Female,Database Administrator III,,High Net Worth,No,7,QLD,Middle_Aged,9,1,0
+Male,Help Desk Operator,Property,Mass Customer,No,8,NSW,Middle_Aged,4,2,1
+Female,Executive Secretary,Manufacturing,Affluent Customer,No,3,QLD,Young,4,2,0
+Male,Payment Adjustment Coordinator,Manufacturing,Mass Customer,No,11,NSW,Senior_Citizen,8,2,0
+Female,VP Marketing,,Affluent Customer,No,8,VIC,Middle_Aged,5,3,0
+Female,Software Engineer II,Argiculture,High Net Worth,Yes,8,NSW,Senior_Citizen,3,2,0
+Male,Database Administrator III,Retail,Affluent Customer,Yes,9,NSW,Young,9,1,1
+Male,Financial Analyst,Financial Services,Mass Customer,No,9,NSW,Middle_Aged,2,3,1
+Female,Social Worker,Health,Mass Customer,Yes,9,QLD,Senior_Citizen,1,3,0
+Male,Technical Writer,Manufacturing,High Net Worth,Yes,5,NSW,Senior_Citizen,5,3,1
+Male,Chief Design Engineer,,Mass Customer,No,8,NSW,Young,4,1,1
+Male,,,Mass Customer,Yes,7,NSW,Middle_Aged,2,1,0
+Female,Mechanical Systems Engineer,Retail,Mass Customer,Yes,9,VIC,Young,9,0,0
+Female,Geological Engineer,Manufacturing,Mass Customer,Yes,5,VIC,Senior_Citizen,8,3,0
+Female,Professor,Manufacturing,High Net Worth,Yes,12,VIC,Senior_Citizen,1,3,0
+Female,Professor,Financial Services,Mass Customer,Yes,12,NSW,Senior_Citizen,0,3,1
+Female,Analyst Programmer,Manufacturing,High Net Worth,Yes,6,VIC,Middle_Aged,0,2,0
+Female,,Manufacturing,Affluent Customer,Yes,7,NSW,Senior_Citizen,3,1,1
+Female,Financial Advisor,Financial Services,Affluent Customer,Yes,5,VIC,Middle_Aged,2,3,1
+Male,Community Outreach Specialist,Financial Services,Mass Customer,No,3,VIC,Middle_Aged,1,3,1
+Male,Nurse Practicioner,Financial Services,High Net Worth,No,11,VIC,Young,7,1,0
+Male,Tax Accountant,Manufacturing,Affluent Customer,Yes,8,NSW,Senior_Citizen,9,3,0
+Female,,Financial Services,High Net Worth,Yes,8,VIC,Middle_Aged,5,3,1
+Female,Developer III,Health,High Net Worth,No,11,NSW,Senior_Citizen,5,3,0
+,Operator,IT,High Net Worth,Yes,4,VIC,Senior_Citizen,4,0,0
+Male,,Property,Mass Customer,No,7,NSW,Senior_Citizen,1,2,1
+Female,VP Product Management,Telecommunications,Mass Customer,No,7,VIC,Senior_Citizen,4,2,1
+Female,Director of Sales,Financial Services,High Net Worth,No,7,VIC,Senior_Citizen,4,3,0
+Male,,,High Net Worth,Yes,8,NSW,Middle_Aged,5,1,1
+Female,Structural Analysis Engineer,Financial Services,Mass Customer,Yes,2,QLD,Middle_Aged,5,3,0
+Male,Librarian,Entertainment,High Net Worth,No,10,VIC,Senior_Citizen,0,1,1
+Female,Junior Executive,Retail,Affluent Customer,No,6,QLD,Senior_Citizen,4,2,0
+Female,Health Coach III,Health,High Net Worth,No,11,NSW,Senior_Citizen,0,2,0
+Male,Associate Professor,,Mass Customer,Yes,8,NSW,Senior_Citizen,2,3,0
+Female,Operator,Manufacturing,Mass Customer,No,9,VIC,Senior_Citizen,2,3,0
+Female,Pharmacist,Health,High Net Worth,No,9,NSW,Senior_Citizen,7,2,0
+Female,VP Sales,Health,Mass Customer,No,10,NSW,Senior_Citizen,0,3,0
+Male,VP Quality Control,Financial Services,Mass Customer,No,8,NSW,Middle_Aged,9,3,1
+Female,Structural Analysis Engineer,Health,Mass Customer,No,9,NSW,Young,3,0,0
+Male,Sales Representative,Retail,Mass Customer,Yes,12,NSW,Middle_Aged,9,1,1
+Female,VP Quality Control,Property,Affluent Customer,Yes,7,NSW,Young,7,1,0
+Male,VP Sales,Retail,Affluent Customer,No,9,QLD,Senior_Citizen,1,2,0
+Female,Accountant IV,Manufacturing,Mass Customer,Yes,7,QLD,Middle_Aged,2,2,1
+Female,Social Worker,Health,Mass Customer,Yes,1,NSW,Middle_Aged,9,2,1
+Male,Office Assistant IV,Retail,High Net Worth,No,2,VIC,Middle_Aged,5,1,1
+Female,Teacher,Entertainment,Mass Customer,Yes,6,NSW,Middle_Aged,9,0,0
+Male,Actuary,Financial Services,Mass Customer,Yes,8,QLD,Young,6,0,1
+Male,Accounting Assistant II,Manufacturing,Mass Customer,No,9,NSW,Senior_Citizen,2,2,0
+Female,Occupational Therapist,Health,High Net Worth,No,4,QLD,Young,9,3,0
+Male,,Health,High Net Worth,Yes,9,NSW,Senior_Citizen,6,1,1
+Female,Administrative Assistant II,Financial Services,Affluent Customer,Yes,8,VIC,Young,5,1,1
+Male,,,Mass Customer,Yes,8,NSW,Middle_Aged,4,2,1
+Male,Help Desk Technician,Financial Services,Affluent Customer,No,9,NSW,Middle_Aged,7,3,0
+Male,VP Accounting,Financial Services,Mass Customer,No,5,QLD,Senior_Citizen,9,1,0
+Male,VP Quality Control,Property,High Net Worth,Yes,4,NSW,Middle_Aged,6,3,0
+Male,VP Product Management,Retail,Mass Customer,Yes,9,NSW,Young,9,2,0
+Female,Recruiting Manager,,High Net Worth,No,3,QLD,Senior_Citizen,7,3,1
+Male,,Manufacturing,Mass Customer,No,8,NSW,Senior_Citizen,3,1,0
+Female,Marketing Manager,,High Net Worth,No,12,NSW,Senior_Citizen,1,2,1
+Female,VP Marketing,Manufacturing,High Net Worth,No,3,QLD,Middle_Aged,0,1,1
+Female,Occupational Therapist,Health,High Net Worth,Yes,8,NSW,Middle_Aged,4,1,0
+Female,Chief Design Engineer,Telecommunications,High Net Worth,No,11,NSW,Middle_Aged,3,2,1
+Male,Chemical Engineer,Manufacturing,Mass Customer,No,8,NSW,Middle_Aged,9,1,1
+Female,,Financial Services,Mass Customer,No,9,QLD,Middle_Aged,4,2,1
+Female,Dental Hygienist,Health,Affluent Customer,Yes,7,VIC,Senior_Citizen,3,3,1
+Female,Cost Accountant,Financial Services,High Net Worth,No,11,NSW,Senior_Citizen,9,3,0
+Male,Actuary,Financial Services,Mass Customer,No,8,VIC,Middle_Aged,2,2,1
+Male,Clinical Specialist,Health,Mass Customer,Yes,5,NSW,Senior_Citizen,1,1,0
+Female,GIS Technical Architect,Financial Services,Mass Customer,No,7,NSW,Young,6,0,0
+Male,Dental Hygienist,Health,Affluent Customer,Yes,8,NSW,Middle_Aged,5,2,0
+Female,VP Quality Control,Financial Services,Mass Customer,Yes,8,VIC,Middle_Aged,8,1,0
+Male,Paralegal,Financial Services,Mass Customer,Yes,9,QLD,Middle_Aged,1,1,1
+Male,Structural Analysis Engineer,,Affluent Customer,Yes,2,QLD,Middle_Aged,2,3,0
+Female,Nurse,Retail,Mass Customer,No,3,QLD,Middle_Aged,4,3,1
+Female,Nurse,Financial Services,High Net Worth,No,11,NSW,Senior_Citizen,7,2,0
+Female,Project Manager,Telecommunications,Mass Customer,Yes,2,NSW,Middle_Aged,8,2,1
+Male,Senior Sales Associate,,Affluent Customer,Yes,7,VIC,Middle_Aged,0,0,1
+Female,Assistant Manager,Health,Mass Customer,Yes,10,QLD,Middle_Aged,2,1,1
+Female,Environmental Specialist,Health,Affluent Customer,Yes,9,VIC,Young,1,1,0
+Male,Actuary,Financial Services,Mass Customer,Yes,9,NSW,Middle_Aged,7,1,0
+Male,Mechanical Systems Engineer,Manufacturing,Mass Customer,No,4,NSW,Middle_Aged,1,1,0
+Male,VP Marketing,,Mass Customer,Yes,8,NSW,Middle_Aged,7,1,1
+Male,Web Designer I,Manufacturing,Mass Customer,No,6,VIC,Middle_Aged,3,3,0
+Female,Marketing Assistant,IT,Affluent Customer,Yes,11,VIC,Middle_Aged,4,3,0
+Female,Recruiting Manager,,Mass Customer,Yes,9,NSW,Middle_Aged,5,2,1
+Male,Business Systems Development Analyst,,Mass Customer,No,9,VIC,Middle_Aged,8,3,0
+Male,Developer IV,,High Net Worth,Yes,10,NSW,Young,3,1,0
+Male,Analog Circuit Design manager,Property,Mass Customer,Yes,7,NSW,Young,7,2,1
+Male,Internal Auditor,Health,Affluent Customer,Yes,11,NSW,Senior_Citizen,2,2,1
+Female,Research Nurse,Health,Affluent Customer,Yes,9,NSW,Senior_Citizen,6,3,0
+Male,Environmental Tech,IT,Mass Customer,Yes,10,NSW,Young,8,2,0
+Female,Programmer Analyst I,Manufacturing,Mass Customer,Yes,5,QLD,Young,4,1,0
+Female,Assistant Manager,,Mass Customer,Yes,9,QLD,Senior_Citizen,9,1,1
+Male,Junior Executive,Financial Services,Mass Customer,No,2,QLD,Young,3,3,1
+Male,Chemical Engineer,Manufacturing,Mass Customer,Yes,9,NSW,Middle_Aged,1,1,1
+Male,Structural Engineer,,Mass Customer,Yes,7,QLD,Young,1,1,0
+Female,Research Nurse,Health,Mass Customer,Yes,7,QLD,Middle_Aged,6,1,0
+Male,Senior Developer,,High Net Worth,Yes,7,QLD,Middle_Aged,5,3,0
+Male,Civil Engineer,Manufacturing,High Net Worth,No,9,NSW,Middle_Aged,4,3,0
+Female,Accountant IV,IT,Affluent Customer,Yes,1,QLD,Senior_Citizen,4,3,1
+Female,,Telecommunications,High Net Worth,No,5,QLD,Senior_Citizen,4,1,0
+Male,Financial Analyst,Financial Services,Mass Customer,Yes,9,NSW,Middle_Aged,6,2,1
+Male,Junior Executive,Financial Services,Mass Customer,Yes,6,VIC,Young,9,2,1
+Female,Database Administrator IV,Property,Affluent Customer,Yes,9,QLD,Senior_Citizen,7,3,0
+Male,Professor,Entertainment,Mass Customer,No,2,NSW,Young,8,2,0
+Male,Software Consultant,Retail,Affluent Customer,No,10,NSW,Middle_Aged,4,1,1
+Female,Physical Therapy Assistant,Financial Services,Mass Customer,No,3,QLD,Middle_Aged,8,1,1
+Female,Librarian,Entertainment,Mass Customer,Yes,7,QLD,Senior_Citizen,2,1,1
+Male,VP Marketing,Financial Services,Mass Customer,Yes,9,QLD,Middle_Aged,9,3,1
+Female,Web Designer IV,Retail,Affluent Customer,No,12,NSW,Middle_Aged,0,2,0
+Male,Senior Sales Associate,Retail,Mass Customer,Yes,2,VIC,Senior_Citizen,3,3,0
+,Nurse,IT,High Net Worth,Yes,7,VIC,Senior_Citizen,2,2,1
+Female,,Financial Services,Mass Customer,Yes,9,VIC,Senior_Citizen,4,3,0
+Male,Social Worker,Health,Mass Customer,No,8,NSW,Middle_Aged,3,3,1
+Female,Quality Control Specialist,,Mass Customer,No,7,VIC,Middle_Aged,8,2,0
+Male,Food Chemist,Health,Affluent Customer,No,5,QLD,Middle_Aged,8,2,1
+Male,Senior Sales Associate,Financial Services,Affluent Customer,Yes,6,VIC,Young,2,1,0
+Female,Senior Quality Engineer,Financial Services,Mass Customer,Yes,11,NSW,Middle_Aged,3,1,0
+Male,Health Coach III,Health,High Net Worth,No,7,NSW,Middle_Aged,6,3,0
+Female,,Health,High Net Worth,No,4,NSW,Middle_Aged,7,3,0
+Male,Teacher,Retail,Affluent Customer,No,3,QLD,Middle_Aged,5,3,0
+Male,Nurse Practicioner,Property,Mass Customer,No,7,QLD,Middle_Aged,0,1,0
+Male,Software Consultant,Argiculture,Affluent Customer,No,1,QLD,Senior_Citizen,0,3,0
+Male,Junior Executive,Financial Services,Affluent Customer,No,12,NSW,Young,5,1,0
+Male,,Entertainment,Affluent Customer,Yes,9,VIC,Middle_Aged,9,3,0
+Male,Research Assistant IV,Manufacturing,High Net Worth,Yes,7,QLD,Senior_Citizen,3,2,1
+Male,Clinical Specialist,Health,Affluent Customer,No,4,NSW,Young,8,1,1
+Female,VP Product Management,Manufacturing,Affluent Customer,Yes,8,NSW,Young,0,1,1
+Female,VP Sales,Retail,Mass Customer,Yes,10,NSW,Middle_Aged,1,1,0
+Female,,,High Net Worth,Yes,6,QLD,Senior_Citizen,8,2,0
+Female,Librarian,Entertainment,Mass Customer,No,8,VIC,Senior_Citizen,8,3,0
+Female,Chief Design Engineer,Health,Affluent Customer,No,3,NSW,Middle_Aged,2,0,0
+Male,Project Manager,Manufacturing,High Net Worth,Yes,8,NSW,Senior_Citizen,4,1,1
+Female,Assistant Professor,Retail,Mass Customer,Yes,9,VIC,Young,1,0,0
+Male,VP Accounting,Financial Services,High Net Worth,No,10,NSW,Young,4,2,1
+,Paralegal,Financial Services,Affluent Customer,No,1,VIC,Senior_Citizen,6,1,1
+Female,Budget/Accounting Analyst III,Retail,Mass Customer,Yes,9,VIC,Young,7,2,1
+Female,Librarian,Entertainment,Affluent Customer,No,10,NSW,Middle_Aged,3,3,0
+Male,,Manufacturing,Mass Customer,Yes,8,NSW,Middle_Aged,4,1,1
+Female,Budget/Accounting Analyst III,,Mass Customer,Yes,12,VIC,Young,4,1,1
+Female,Food Chemist,Health,Mass Customer,No,10,NSW,Middle_Aged,3,2,1
+Female,Software Test Engineer I,Financial Services,Affluent Customer,Yes,5,QLD,Middle_Aged,3,2,0
+Male,Nurse Practicioner,Manufacturing,High Net Worth,No,10,VIC,Senior_Citizen,5,1,0
+Male,Dental Hygienist,Health,Mass Customer,No,9,NSW,Young,9,2,0
+Male,Analyst Programmer,Manufacturing,Affluent Customer,No,10,NSW,Young,6,1,1
+Male,Operator,Health,High Net Worth,No,10,NSW,Senior_Citizen,8,1,0
+Female,Research Nurse,Health,High Net Worth,Yes,12,VIC,Senior_Citizen,4,2,0
+Male,Marketing Assistant,IT,High Net Worth,No,10,NSW,Middle_Aged,0,1,0
+Female,Financial Advisor,Financial Services,Affluent Customer,No,2,QLD,Middle_Aged,4,1,0
+Female,Geological Engineer,Manufacturing,Mass Customer,Yes,10,NSW,Young,3,1,0
+Female,Registered Nurse,Health,Affluent Customer,Yes,6,NSW,Middle_Aged,9,2,0
+Male,Associate Professor,Property,Mass Customer,No,10,VIC,Middle_Aged,0,1,1
+Female,Librarian,Entertainment,High Net Worth,No,6,NSW,Senior_Citizen,7,3,1
+Male,Developer I,Health,Mass Customer,No,12,NSW,Senior_Citizen,2,1,0
+Female,Clinical Specialist,Health,Affluent Customer,No,9,NSW,Senior_Citizen,6,2,1
+Male,Nurse,Manufacturing,Mass Customer,No,2,QLD,Middle_Aged,0,2,1
+Female,Biostatistician IV,Financial Services,Mass Customer,Yes,12,VIC,Middle_Aged,4,2,1
+Male,General Manager,Health,Mass Customer,No,9,NSW,Senior_Citizen,0,2,1
+Female,Environmental Tech,Manufacturing,Affluent Customer,No,9,NSW,Middle_Aged,0,2,1
+Male,Chemical Engineer,Manufacturing,Affluent Customer,No,10,NSW,Senior_Citizen,7,3,1
+Female,,Manufacturing,High Net Worth,No,8,NSW,Middle_Aged,6,3,1
+Female,Account Executive,Health,Mass Customer,Yes,11,NSW,Middle_Aged,2,2,0
+Female,Health Coach I,Health,Mass Customer,No,10,NSW,Middle_Aged,7,2,1
+Male,Marketing Manager,Manufacturing,Mass Customer,No,5,QLD,Senior_Citizen,7,3,1
+Male,Project Manager,,Mass Customer,Yes,8,NSW,Senior_Citizen,7,2,1
+Female,Software Test Engineer I,Manufacturing,High Net Worth,No,7,VIC,Senior_Citizen,1,3,0
+Male,Junior Executive,Financial Services,Affluent Customer,No,9,QLD,Middle_Aged,8,3,1
+Male,Programmer III,Financial Services,High Net Worth,No,11,NSW,Senior_Citizen,6,3,1
+Male,Financial Analyst,Financial Services,Mass Customer,No,7,NSW,Middle_Aged,9,1,0
+Female,,Financial Services,Affluent Customer,No,6,VIC,Senior_Citizen,4,3,0
+Female,Safety Technician IV,Financial Services,Affluent Customer,Yes,10,NSW,Middle_Aged,9,1,1
+Male,Chemical Engineer,Manufacturing,Mass Customer,No,1,QLD,Senior_Citizen,6,3,1
+Female,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes,7,NSW,Middle_Aged,3,1,1
+Male,,Financial Services,High Net Worth,Yes,4,VIC,Young,7,3,0
+Female,Help Desk Operator,,High Net Worth,No,5,QLD,Senior_Citizen,6,3,0
+Male,Software Consultant,,Affluent Customer,No,7,NSW,Young,3,0,1
+Male,Dental Hygienist,Health,Mass Customer,No,8,QLD,Senior_Citizen,3,1,1
+Male,Computer Systems Analyst III,Health,Mass Customer,Yes,10,NSW,Senior_Citizen,4,3,0
+Male,Budget/Accounting Analyst I,Financial Services,Affluent Customer,No,10,VIC,Middle_Aged,0,3,1
+Male,GIS Technical Architect,Financial Services,Affluent Customer,No,8,VIC,Young,6,2,0
+Male,Marketing Assistant,Manufacturing,High Net Worth,No,8,VIC,Young,9,2,0
+Male,Budget/Accounting Analyst III,Manufacturing,Affluent Customer,No,8,VIC,Middle_Aged,7,3,0
+Male,Budget/Accounting Analyst III,,Mass Customer,Yes,8,NSW,Middle_Aged,4,2,1
+Male,Account Representative III,Argiculture,Mass Customer,No,7,QLD,Middle_Aged,3,3,1
+Female,Sales Associate,Financial Services,Mass Customer,Yes,8,NSW,Middle_Aged,1,1,0
+Female,Senior Financial Analyst,Financial Services,Mass Customer,No,6,VIC,Middle_Aged,4,1,1
+Male,Marketing Manager,,Mass Customer,No,9,NSW,Young,2,0,1
+Female,Automation Specialist II,,High Net Worth,No,8,QLD,Young,4,1,0
+Female,Registered Nurse,Health,High Net Worth,Yes,7,NSW,Middle_Aged,6,3,0
+Female,Cost Accountant,Financial Services,Mass Customer,Yes,12,NSW,Young,6,1,0
+Female,Registered Nurse,Health,Affluent Customer,No,4,VIC,Senior_Citizen,2,2,0
+Female,Staff Accountant III,Property,High Net Worth,Yes,11,NSW,Middle_Aged,2,0,0
+Female,,IT,Mass Customer,Yes,10,NSW,Middle_Aged,6,2,0
+Male,Nuclear Power Engineer,Manufacturing,High Net Worth,No,5,VIC,Senior_Citizen,5,2,1
+Male,Media Manager II,Financial Services,Mass Customer,No,7,QLD,Middle_Aged,7,3,1
+,General Manager,IT,Mass Customer,No,11,NSW,Senior_Citizen,8,2,0
+Male,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,Yes,8,QLD,Middle_Aged,7,1,0
+Male,Quality Engineer,,Mass Customer,Yes,10,VIC,Senior_Citizen,0,2,1
+Male,Analyst Programmer,,Mass Customer,No,8,NSW,Young,6,1,0
+Male,Human Resources Manager,,Mass Customer,No,8,NSW,Senior_Citizen,9,2,1
+Male,Recruiter,,Mass Customer,Yes,8,NSW,Senior_Citizen,7,3,0
+Male,Recruiter,,Affluent Customer,No,12,NSW,Middle_Aged,4,2,1
+Female,Environmental Specialist,Property,High Net Worth,Yes,7,NSW,Senior_Citizen,7,1,0
+Female,Compensation Analyst,Financial Services,Mass Customer,No,9,NSW,Young,2,2,1
+Female,Engineer IV,Retail,Mass Customer,No,4,QLD,Middle_Aged,2,1,0
+Male,Engineer I,Manufacturing,Mass Customer,No,5,NSW,Young,2,0,1
+Female,Executive Secretary,,Mass Customer,Yes,8,QLD,Young,6,0,1
+Male,Financial Analyst,Financial Services,Mass Customer,Yes,8,VIC,Middle_Aged,4,1,1
+Female,Registered Nurse,Health,High Net Worth,Yes,7,NSW,Young,6,2,0
+Male,VP Quality Control,Telecommunications,High Net Worth,No,4,QLD,Senior_Citizen,6,2,1
+Female,Registered Nurse,Health,High Net Worth,No,2,VIC,Senior_Citizen,4,2,0
+Female,Civil Engineer,Manufacturing,Mass Customer,No,9,NSW,Senior_Citizen,6,3,1
+Male,Pharmacist,Health,Mass Customer,Yes,8,NSW,Young,6,0,1
+Female,Cost Accountant,Financial Services,Affluent Customer,Yes,10,VIC,Senior_Citizen,2,1,0
+Female,Automation Specialist II,Property,High Net Worth,Yes,10,NSW,Middle_Aged,4,1,1
+Male,Junior Executive,Health,Affluent Customer,Yes,7,VIC,Middle_Aged,2,3,1
+Male,VP Quality Control,Manufacturing,Affluent Customer,Yes,2,QLD,Senior_Citizen,3,2,1
+Female,Human Resources Assistant III,Health,Affluent Customer,Yes,9,NSW,Senior_Citizen,6,3,0
+Male,Clinical Specialist,Health,Affluent Customer,Yes,10,NSW,Senior_Citizen,8,2,0
+Female,Business Systems Development Analyst,IT,High Net Worth,No,6,QLD,Senior_Citizen,4,3,0
+Male,Marketing Manager,Manufacturing,High Net Worth,Yes,6,VIC,Middle_Aged,3,1,0
+Male,Financial Advisor,Financial Services,Affluent Customer,No,7,VIC,Middle_Aged,4,0,1
+Male,Senior Financial Analyst,Financial Services,Affluent Customer,No,7,NSW,Senior_Citizen,5,2,1
+Female,Environmental Tech,Manufacturing,Affluent Customer,Yes,9,NSW,Young,0,1,0
+Female,Associate Professor,Manufacturing,Mass Customer,No,8,VIC,Young,3,0,1
+Male,Account Representative IV,Health,High Net Worth,Yes,2,VIC,Senior_Citizen,5,3,0
+Female,Dental Hygienist,Health,High Net Worth,No,10,QLD,Middle_Aged,9,2,0
+Male,Environmental Specialist,,High Net Worth,Yes,11,NSW,Senior_Citizen,1,2,0
+Female,Statistician IV,Financial Services,Mass Customer,No,9,VIC,Senior_Citizen,8,1,0
+Male,Product Engineer,Health,Mass Customer,Yes,11,NSW,Middle_Aged,9,2,0
+Female,Senior Cost Accountant,Financial Services,Mass Customer,No,12,NSW,Middle_Aged,4,0,0
+Female,Nurse,Health,High Net Worth,Yes,3,NSW,Senior_Citizen,7,1,0
+Female,Clinical Specialist,Health,High Net Worth,No,6,NSW,Senior_Citizen,3,1,0
+Female,,IT,Mass Customer,Yes,10,VIC,Middle_Aged,5,3,0
+Male,Programmer Analyst II,Financial Services,Affluent Customer,No,7,VIC,Middle_Aged,8,2,1
+Male,Electrical Engineer,Manufacturing,Affluent Customer,Yes,8,VIC,Young,5,0,0
+Female,Automation Specialist I,Manufacturing,Mass Customer,No,11,NSW,Senior_Citizen,5,3,1
+Male,Automation Specialist III,Manufacturing,Affluent Customer,Yes,9,QLD,Senior_Citizen,4,2,1
+Female,Assistant Manager,Health,High Net Worth,Yes,10,NSW,Young,3,2,1
+Male,,,Affluent Customer,No,4,NSW,Middle_Aged,4,3,1
+Male,Tax Accountant,Financial Services,High Net Worth,No,9,QLD,Senior_Citizen,6,1,1
+Male,,Telecommunications,Mass Customer,Yes,6,QLD,Middle_Aged,6,1,1
+Female,GIS Technical Architect,,Affluent Customer,Yes,3,VIC,Young,2,2,0
+,,IT,Affluent Customer,No,10,NSW,Senior_Citizen,2,0,0
+Male,Associate Professor,Entertainment,Mass Customer,No,7,VIC,Middle_Aged,4,2,1
+Male,Cost Accountant,Financial Services,Affluent Customer,Yes,7,NSW,Senior_Citizen,4,3,0
+Male,Software Consultant,Telecommunications,Mass Customer,No,9,NSW,Young,5,2,1
+Female,Analog Circuit Design manager,Argiculture,Affluent Customer,Yes,9,NSW,Senior_Citizen,2,1,1
+Female,Structural Analysis Engineer,Financial Services,Affluent Customer,No,9,VIC,Middle_Aged,7,1,1
+Male,,Manufacturing,Affluent Customer,No,6,NSW,Middle_Aged,6,3,0
+Male,Project Manager,IT,Mass Customer,Yes,1,VIC,Senior_Citizen,5,1,1
+Male,Design Engineer,Property,Mass Customer,Yes,12,NSW,Middle_Aged,5,1,1
+Female,Civil Engineer,Manufacturing,High Net Worth,Yes,3,NSW,Young,1,3,0
+Male,Executive Secretary,,High Net Worth,No,9,NSW,Middle_Aged,3,1,1
+Female,Systems Administrator II,IT,Mass Customer,Yes,4,QLD,Young,5,1,0
+Male,Software Test Engineer II,Manufacturing,Mass Customer,No,8,VIC,Senior_Citizen,0,3,0
+Male,Environmental Tech,IT,Affluent Customer,Yes,5,QLD,Senior_Citizen,4,1,1
+Male,Staff Scientist,Health,Mass Customer,No,9,NSW,Senior_Citizen,4,2,1
+Female,Accountant IV,Property,Affluent Customer,No,10,NSW,Senior_Citizen,3,2,1
+Male,,Health,High Net Worth,No,9,NSW,Middle_Aged,0,3,1
+Male,Assistant Professor,,Mass Customer,No,7,VIC,Middle_Aged,0,2,1
+Female,Chief Design Engineer,Manufacturing,Mass Customer,No,10,NSW,Middle_Aged,5,1,0
+Male,Paralegal,Financial Services,Mass Customer,No,6,VIC,Young,4,1,1
+Female,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes,8,NSW,Middle_Aged,8,1,1
+,Legal Assistant,IT,Mass Customer,No,6,NSW,Senior_Citizen,0,0,0
+Female,Account Executive,Health,Mass Customer,No,7,NSW,Middle_Aged,7,1,1
+Male,Help Desk Technician,,Affluent Customer,No,5,QLD,Middle_Aged,2,3,0
+Female,,,Mass Customer,No,7,VIC,Middle_Aged,5,2,0
+Male,Software Test Engineer III,Health,Affluent Customer,No,9,NSW,Young,1,3,0
+Female,Sales Representative,Retail,Mass Customer,Yes,5,NSW,Senior_Citizen,6,1,1
+Female,,Manufacturing,Mass Customer,No,10,NSW,Middle_Aged,4,3,0
+Female,General Manager,Manufacturing,Affluent Customer,No,8,VIC,Young,0,3,1
+Male,Geologist III,Manufacturing,Affluent Customer,Yes,5,QLD,Senior_Citizen,3,1,0
+Female,Help Desk Operator,,High Net Worth,Yes,9,VIC,Senior_Citizen,1,2,1
+Male,,,Mass Customer,No,9,NSW,Senior_Citizen,8,3,0
+Female,Developer IV,Entertainment,High Net Worth,No,10,NSW,Middle_Aged,5,1,0
+Female,Chemical Engineer,Manufacturing,High Net Worth,Yes,2,QLD,Middle_Aged,1,2,0
+Female,Software Consultant,Health,High Net Worth,No,8,VIC,Middle_Aged,6,3,0
+Female,Nurse,Telecommunications,High Net Worth,No,9,QLD,Young,7,0,1
+Male,Help Desk Operator,Telecommunications,High Net Worth,No,2,NSW,Senior_Citizen,7,3,0
+Female,Assistant Manager,,High Net Worth,Yes,6,NSW,Senior_Citizen,4,2,0
+Female,Pharmacist,Health,Mass Customer,No,9,NSW,Young,5,3,1
+Male,Teacher,Property,Mass Customer,Yes,10,NSW,Middle_Aged,5,0,0
+Female,,Manufacturing,High Net Worth,No,10,NSW,Middle_Aged,2,3,0
+Female,Senior Cost Accountant,Financial Services,Mass Customer,Yes,10,NSW,Middle_Aged,0,3,0
+Female,General Manager,Manufacturing,Mass Customer,Yes,4,VIC,Senior_Citizen,4,1,1
+Female,Research Associate,Manufacturing,Mass Customer,No,9,QLD,Senior_Citizen,6,3,0
+Male,Librarian,Entertainment,High Net Worth,No,4,QLD,Young,7,0,0
+Female,Senior Cost Accountant,Financial Services,High Net Worth,Yes,7,NSW,Middle_Aged,8,2,0
+Female,,Manufacturing,Affluent Customer,Yes,9,VIC,Young,6,2,0
+Male,Occupational Therapist,Health,Mass Customer,Yes,5,VIC,Senior_Citizen,6,3,0
+Female,Statistician II,Manufacturing,Affluent Customer,No,10,NSW,Middle_Aged,9,1,1
+Female,Software Engineer I,Telecommunications,Mass Customer,Yes,10,NSW,Middle_Aged,3,2,0
+Male,Senior Financial Analyst,Financial Services,Mass Customer,No,4,VIC,Middle_Aged,1,2,0
+Female,Project Manager,Manufacturing,Mass Customer,No,4,VIC,Senior_Citizen,0,1,1
+Female,Assistant Media Planner,Entertainment,Mass Customer,Yes,6,VIC,Middle_Aged,7,3,0
+Male,Help Desk Technician,Financial Services,High Net Worth,Yes,8,VIC,Middle_Aged,1,1,0
+Female,Paralegal,Financial Services,High Net Worth,Yes,3,NSW,Senior_Citizen,4,2,0
+Female,Legal Assistant,Argiculture,Mass Customer,No,4,QLD,Senior_Citizen,7,3,0
+Male,Staff Scientist,Retail,High Net Worth,No,9,NSW,Senior_Citizen,9,3,0
+Female,Internal Auditor,Financial Services,Mass Customer,Yes,8,VIC,Middle_Aged,6,3,0
+Female,Chief Design Engineer,,Mass Customer,Yes,7,QLD,Senior_Citizen,0,1,1
+Female,Food Chemist,Health,Affluent Customer,Yes,3,NSW,Middle_Aged,6,1,1
+Male,Software Test Engineer I,Retail,Mass Customer,No,10,VIC,Middle_Aged,9,1,0
+Male,Analog Circuit Design manager,Property,Mass Customer,No,9,NSW,Young,9,1,1
+Female,Sales Representative,Retail,High Net Worth,No,7,NSW,Senior_Citizen,6,1,0
+Female,Software Engineer III,Manufacturing,High Net Worth,Yes,9,NSW,Young,4,0,1
+Female,Account Executive,Health,Mass Customer,No,4,VIC,Young,3,3,1
+Male,Help Desk Operator,Manufacturing,High Net Worth,Yes,11,NSW,Young,1,2,1
+Male,Teacher,Health,High Net Worth,No,8,VIC,Middle_Aged,2,0,0
+Female,Operator,,Mass Customer,No,7,VIC,Middle_Aged,2,0,0
+Male,Environmental Specialist,IT,Mass Customer,Yes,7,QLD,Middle_Aged,6,1,0
+Female,,Financial Services,Mass Customer,No,3,VIC,Middle_Aged,2,1,0
+Female,,Manufacturing,Mass Customer,Yes,11,NSW,Senior_Citizen,7,3,1
+Female,Payment Adjustment Coordinator,,High Net Worth,No,12,NSW,Young,1,2,0
+Male,Geologist I,Financial Services,Mass Customer,Yes,7,VIC,Middle_Aged,1,1,1
+Female,Operator,Retail,Mass Customer,Yes,11,NSW,Young,5,3,0
+Female,VP Quality Control,,Mass Customer,Yes,9,QLD,Middle_Aged,8,1,0
+Female,Web Designer II,Retail,Mass Customer,No,8,VIC,Young,7,1,1
+Female,Programmer III,,Mass Customer,No,4,VIC,Middle_Aged,6,0,1
+Female,Accountant III,Financial Services,Mass Customer,No,9,NSW,Middle_Aged,0,2,0
+Male,Recruiting Manager,Health,Mass Customer,No,3,VIC,Middle_Aged,1,2,1
+Male,Associate Professor,Property,Affluent Customer,Yes,10,NSW,Middle_Aged,8,1,0
+Female,Research Assistant III,Manufacturing,Mass Customer,Yes,6,QLD,Middle_Aged,2,2,0
+Female,Human Resources Manager,Health,Mass Customer,Yes,10,NSW,Middle_Aged,4,3,0
+Male,Product Engineer,Telecommunications,Affluent Customer,No,8,NSW,Young,3,0,0
+Female,Geological Engineer,Manufacturing,Mass Customer,No,6,QLD,Middle_Aged,0,3,1
+Female,Civil Engineer,Manufacturing,High Net Worth,No,12,NSW,Senior_Citizen,7,2,0
+Male,Dental Hygienist,Health,High Net Worth,Yes,1,NSW,Middle_Aged,6,3,0
+Male,Electrical Engineer,Manufacturing,High Net Worth,Yes,8,NSW,Senior_Citizen,0,3,0
+Female,Nurse,Property,Affluent Customer,Yes,9,NSW,Middle_Aged,3,0,1
+Female,,,Affluent Customer,No,6,VIC,Young,4,2,0
+Male,,Health,Mass Customer,Yes,10,NSW,Young,8,2,1
+Female,Senior Quality Engineer,Retail,Mass Customer,Yes,5,QLD,Middle_Aged,3,2,0
+Female,Structural Engineer,Financial Services,Affluent Customer,Yes,12,VIC,Young,7,2,0
+Male,Recruiter,,Affluent Customer,Yes,6,VIC,Middle_Aged,6,3,1
+Male,Environmental Tech,Health,Mass Customer,Yes,9,VIC,Middle_Aged,1,1,0
+Female,Structural Analysis Engineer,IT,Mass Customer,No,10,NSW,Senior_Citizen,5,1,0
+Male,Web Designer II,Argiculture,Mass Customer,Yes,5,VIC,Middle_Aged,7,2,0
+Male,Environmental Tech,Argiculture,Mass Customer,Yes,12,NSW,Middle_Aged,9,1,0
+Female,Mechanical Systems Engineer,,Mass Customer,Yes,8,NSW,Young,7,0,0
+Female,Senior Quality Engineer,Financial Services,Affluent Customer,Yes,1,QLD,Senior_Citizen,8,3,1
+Male,Sales Associate,Property,Mass Customer,No,5,NSW,Senior_Citizen,4,1,1
+Female,Quality Control Specialist,,Mass Customer,No,11,NSW,Senior_Citizen,0,3,1
+,Desktop Support Technician,IT,Affluent Customer,Yes,10,NSW,Senior_Citizen,8,0,1
+Female,Research Nurse,Health,Mass Customer,No,4,VIC,Middle_Aged,8,3,0
+Male,Web Developer I,IT,Mass Customer,Yes,8,NSW,Senior_Citizen,4,1,1
+Female,Geologist I,Health,Mass Customer,No,7,NSW,Young,4,3,1
+Female,Quality Control Specialist,Manufacturing,Mass Customer,Yes,7,NSW,Senior_Citizen,6,2,1
+Female,,Manufacturing,High Net Worth,Yes,8,NSW,Senior_Citizen,8,2,1
+Female,Help Desk Operator,Property,Mass Customer,Yes,6,QLD,Senior_Citizen,6,1,0
+Male,Automation Specialist I,Manufacturing,Mass Customer,Yes,3,VIC,Middle_Aged,5,3,0
+Female,Assistant Media Planner,Entertainment,Mass Customer,Yes,3,QLD,Middle_Aged,3,1,0
+Male,Compensation Analyst,Financial Services,Mass Customer,Yes,4,NSW,Senior_Citizen,3,1,1
+Female,Office Assistant IV,Retail,Mass Customer,No,12,VIC,Young,1,0,1
+Male,Paralegal,Financial Services,Affluent Customer,No,7,NSW,Senior_Citizen,6,1,1
+Male,Senior Sales Associate,Health,Mass Customer,No,10,NSW,Young,2,1,0
+Female,Budget/Accounting Analyst IV,Financial Services,Affluent Customer,Yes,2,QLD,Senior_Citizen,1,3,0
+Male,Financial Advisor,Financial Services,Mass Customer,Yes,2,QLD,Senior_Citizen,3,3,1
+Male,Staff Accountant IV,Property,Mass Customer,Yes,9,NSW,Senior_Citizen,5,2,0
