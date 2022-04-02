@@ -18,8 +18,10 @@ engineered column was segregating **Australian Capital Territory** from 'New Sou
  ![image](https://user-images.githubusercontent.com/102746816/161388931-efd5c2ca-8dd0-4ab1-894e-c812261dde4b.png)
 
 * A RFM analysis was carried out on all the customers and following conclusions were derived:
-  **The company was loosing 39 important customers**
+  
  ![image](https://user-images.githubusercontent.com/102746816/161388081-3f3f0d76-9c15-4c24-8811-a6846c47a7a6.png)
+ 
+ **The company was loosing 39 important customers**
  
  ## Data Preparation before modelling
  * Dataset had **no target variable**, so a column was created from RFM analysis using monetary habits, i.e They were divided into two category based on spending.
